@@ -7,6 +7,7 @@ library(ReactomePA)
 # test exmaple
 gene_list <- c(4312,8318,10874,55143 ,55388 ,991)
 
+# switch to 'UNIPROT' keytype
 # Perform GO enrichment analysis
 enrich_result <- enrichGO(gene = gene_list,
                           OrgDb = org.Hs.eg.db,
