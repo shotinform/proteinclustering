@@ -80,6 +80,6 @@ pheatmap(matrix_mf,
          annotation_row = annotation_rows,
          color = colorRampPalette(c("brown", "white"))(10),
          main = "Molecular Function (MF)",
-         cluster_rows = FALSE,  # Disable clustering if rows are already ordered by significance
+         cluster_rows = FALSE,  
          cluster_cols = FALSE,
          border_color = "black")
