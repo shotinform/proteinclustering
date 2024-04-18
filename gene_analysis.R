@@ -13,7 +13,7 @@ enrich_result <- enrichGO(gene = gene_list,
                           OrgDb = org.Hs.eg.db,
                           keyType = "ENTREZID",
                           ont = "BP", # Biological Process ontology
-                          pAdjustMethod = "BH", # Benjamini-Hochberg method for multiple testing correction
+                          pAdjustMethod = "BH", 
                           pvalueCutoff = 0.1) # P-value cutoff
 
 #enrich_result.pvalueCutoff(0.1)
@@ -24,10 +24,10 @@ significant_terms <- enrich_result[enrich_result$p.adjust < 0.1, ]
 # Perform pathway analysis using Reactome database
 
 pathway_result <- enrichPathway(gene = gene_list,
-                                pvalueCutoff = 0.1, # P-value cutoff
-                                minGSSize = 2, # Minimum gene set size
-                                maxGSSize = 400, # Maximum gene set size
-                                pAdjustMethod = "BH") # Benjamini-Hochberg method for multiple testing correction
+                                pvalueCutoff = 0.1, 
+                                minGSSize = 2, 
+                                maxGSSize = 400, 
+                                pAdjustMethod = "BH") 
 
 # Visualize Reactome pathway in a tree-like structure
 
