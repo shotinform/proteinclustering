@@ -1,0 +1,637 @@
+Selection	Association Name	Association Type	Significance
+Parathyroid Neoplasms	Technetium Tc 99m Sestamibi	Drug	9.922829148146385e-7
+Parathyroid Neoplasms	Recombinant Parathyroid Hormone	Drug	0.0000011803220612007784
+Parathyroid Neoplasms	Fluorine F 18 Fluorocholine	Drug	0.000024326158658795205
+Parathyroid Neoplasms	Sodium Pertechnetate Tc 99m	Drug	0.000036643284596961694
+Parathyroid Neoplasms	Cinacalcet	Drug	0.00003766865209237081
+Parathyroid Neoplasms	Calcitonin	Drug	0.00015102450548072982
+Parathyroid Neoplasms	Technetium TC-99m	Drug	0.00017088533326889635
+Parathyroid Neoplasms	thallium chloride	Drug	0.00017649453537341335
+Parathyroid Neoplasms	Technetium Tc-99m Tetrofosmin	Drug	0.00018905187234542339
+Parathyroid Neoplasms	ERGOCALCIFEROL	Drug	0.00019504604048844868
+Parathyroid Neoplasms	Methionine C 11	Drug	0.00026799913353004455
+Parathyroid Neoplasms	Phosphates	Drug	0.000645243553685717
+Parathyroid Neoplasms	Recombinant Parathyroid Hormone-Related Protein	Drug	0.0007568195921805267
+Parathyroid Neoplasms	Evocalcet	Drug	0.000789085692077295
+Parathyroid Neoplasms	Selenomethionine Se-75	Drug	0.0008049607349513123
+Parathyroid Neoplasms	Calcitriol	Drug	0.0009826728892757793
+Parathyroid Neoplasms	Calcifediol	Drug	0.0011645998155395134
+Parathyroid Neoplasms	Plicamycin	Drug	0.001216211231210156
+Parathyroid Neoplasms	Denosumab	Drug	0.001385069535161775
+Parathyroid Neoplasms	Dihydrotachysterol	Drug	0.0014011046194920742
+Parathyroid Neoplasms	Technetium Tc 99m Medronate	Drug	0.0014510984512694353
+Parathyroid Neoplasms	25-hydroxyvitamin D	Drug	0.001487232564620913
+Parathyroid Neoplasms	Sodium Iodide I-123	Drug	0.0015149421563892247
+Parathyroid Neoplasms	2-methoxyisobutylisonitrile	Drug	0.0016038000384396725
+Parathyroid Neoplasms	Alfacalcidol	Drug	0.0016248202178173457
+Parathyroid Neoplasms	Peptichemio	Drug	0.0016559927241395502
+Parathyroid Neoplasms	Pentoxifylline	Drug	0.0021116821372669514
+Parathyroid Neoplasms	Abamectin	Drug	0.0025518566611117894
+Parathyroid Neoplasms	Carbon C 11 Choline	Drug	0.002702080995201091
+Parathyroid Neoplasms	Elcatonin	Drug	0.0027046997094826186
+Parathyroid Neoplasms	monoethylcholine	Drug	0.0028028502986485585
+Parathyroid Neoplasms	Selenomethionine	Drug	0.002821039434369201
+Parathyroid Neoplasms	Pamidronate	Drug	0.002928705672778896
+Parathyroid Neoplasms	Potassium Perchlorate	Drug	0.0032404301321321176
+Parathyroid Neoplasms	Methylene Blue	Drug	0.003682320756005364
+Parathyroid Neoplasms	Teniposide	Drug	0.003864090538404355
+Parathyroid Neoplasms	Menogaril	Drug	0.0038744826211990985
+Parathyroid Neoplasms	Ronacaleret	Drug	0.0041184230162066345
+Parathyroid Neoplasms	Calcium Gluconate	Drug	0.004425804055575766
+Parathyroid Neoplasms	Arginine/Omega-3 Fatty Acids/Nucleotides Oral Supplement	Drug	0.005156843629520024
+Parathyroid Neoplasms	Iodine I-131	Drug	0.005799805350130659
+Parathyroid Neoplasms	Fluorodeoxyglucose F18	Drug	0.005836262842539127
+Parathyroid Neoplasms	Gallium Ga 68-DOTATATE	Drug	0.005929612513482057
+Parathyroid Neoplasms	Octreotide	Drug	0.006107506870978071
+Parathyroid Neoplasms	parathyroid hormone-related protein (1-34)	Drug	0.0064287575467828215
+Parathyroid Neoplasms	Hydroxyproline	Drug	0.006463666307200931
+Parathyroid Neoplasms	Cholecalciferol	Drug	0.006836058782260784
+Parathyroid Neoplasms	Zoledronic Acid	Drug	0.007058522550329899
+Parathyroid Neoplasms	Furosemide	Drug	0.007065591053680171
+Parathyroid Neoplasms	Pentetreotide	Drug	0.008414222115188146
+Parathyroid Neoplasms	Catechin	Drug	0.009017617856409315
+Parathyroid Neoplasms	Gallium Ga 68-DOTANOC	Drug	0.009123732884743236
+Parathyroid Neoplasms	3-Iodobenzylguanidine	Drug	0.009206503039477587
+Parathyroid Neoplasms	Etelcalcetide	Drug	0.009302991550369809
+Parathyroid Neoplasms	Somatostatin	Drug	0.009571227944152992
+Parathyroid Neoplasms	Spartalizumab	Drug	0.009816722600151356
+Parathyroid Neoplasms	Pentagastrin	Drug	0.010306312681934531
+Parathyroid Neoplasms	Fibroblast Growth Factor-23	Drug	0.010531713439296946
+Parathyroid Neoplasms	4-anisoyl-3-(1,2,2-trimethylcyclopentane carboxylic acid)	Drug	0.010728111967192313
+Parathyroid Neoplasms	Charcoal	Drug	0.011134041256652679
+Parathyroid Neoplasms	Glucose	Drug	0.011165629281076794
+Parathyroid Neoplasms	Racemethionine	Drug	0.011456678141763675
+Parathyroid Neoplasms	Cyclic AMP	Drug	0.011777252636863219
+Parathyroid Neoplasms	Medronic Acid	Drug	0.012031483513923425
+Parathyroid Neoplasms	Tolonium Chloride	Drug	0.012547635881359591
+Parathyroid Neoplasms	Isoprocarb	Drug	0.012636851311900586
+Parathyroid Neoplasms	Gallium Citrate Ga-67	Drug	0.013320845577017267
+Parathyroid Neoplasms	Clodronic Acid	Drug	0.01337691071434169
+Parathyroid Neoplasms	Cholesterol	Drug	0.013510391751354043
+Parathyroid Neoplasms	Ferrous Sulfate	Drug	0.013569011998480738
+Parathyroid Neoplasms	Thyroglobulin	Drug	0.01402697347464826
+Parathyroid Neoplasms	Frovatriptan	Drug	0.0163815767104888
+Parathyroid Neoplasms	Fluorine F 18 Fluoroethylcholine	Drug	0.01657542636872044
+Parathyroid Neoplasms	Nitric Oxide	Drug	0.018516567771441762
+Parathyroid Neoplasms	Adenosine Triphosphate	Drug	0.018810033419250142
+Parathyroid Neoplasms	Recombinant Tumor Necrosis Factor Family Protein	Drug	0.019234381689421508
+Parathyroid Neoplasms	Lactic Acid	Drug	0.020948954068764843
+Parathyroid Neoplasms	Sodium Fluoride F-18	Drug	0.021071668873343153
+Parathyroid Neoplasms	Tecalcet	Drug	0.021601915179673456
+Parathyroid Neoplasms	Carbon Monoxide	Drug	0.023285172596233146
+Parathyroid Neoplasms	Recombinant Interleukin-6	Drug	0.023413223583202573
+Parathyroid Neoplasms	Alendronate	Drug	0.023862947374352687
+Parathyroid Neoplasms	Glucagon	Drug	0.024622099865061635
+Parathyroid Neoplasms	Tromantadine	Drug	0.026078609531702532
+Parathyroid Neoplasms	Teriparatide	Drug	0.026322992476813634
+Parathyroid Neoplasms	Paraffin	Drug	0.026379659813474798
+Parathyroid Neoplasms	Lithium Carbonate	Drug	0.027103730170556922
+Parathyroid Neoplasms	Capecitabine/Temozolomide Regimen	Drug	0.028344894376292815
+Parathyroid Neoplasms	Glutamic Acid	Drug	0.02983898915767714
+Parathyroid Neoplasms	Scarlet Red	Drug	0.031159791229104738
+Parathyroid Neoplasms	Secretin	Drug	0.03383437583321356
+Parathyroid Neoplasms	Thyrotropin-Releasing Hormone	Drug	0.03484886040308442
+Parathyroid Neoplasms	Thyroxine	Drug	0.03558262934729465
+Parathyroid Neoplasms	Cisplatin	Drug	0.03607141586665662
+Parathyroid Neoplasms	Progesterone	Drug	0.03645279057779095
+Parathyroid Neoplasms	Lutetium Lu 177 Dotatate	Drug	0.036650217528005104
+Parathyroid Neoplasms	Estradiol	Drug	0.03740898701028953
+Parathyroid Neoplasms	Norepinephrine	Drug	0.039128152305257145
+Parathyroid Neoplasms	Vipivotide Tetraxetan	Drug	0.03962412124625744
+Parathyroid Neoplasms	Lanreotide	Drug	0.040073038386963036
+Parathyroid Neoplasms	Heparin	Drug	0.040873213010063476
+Parathyroid Neoplasms	Sargramostim	Drug	0.041322947781131096
+Parathyroid Neoplasms	Therapeutic Insulin	Drug	0.04287637599408595
+Parathyroid Neoplasms	Therapeutic Corticosteroid	Drug	0.04491931447171006
+Parathyroid Neoplasms	Tyrosine	Drug	0.0454543026552255
+Parathyroid Neoplasms	Interferon-gamma	Drug	0.04561620474457885
+Parathyroid Neoplasms	Nonsteroidal Antiinflammatory Drug	Drug	0.04586190730487374
+Parathyroid Neoplasms	Polyethylene Glycols	Drug	0.04654750823282838
+Parathyroid Neoplasms	methylene bromide	Drug	0.04716936085830898
+Parathyroid Neoplasms	Cimetidine	Drug	0.04757998486141044
+Parathyroid Neoplasms	Chlorquinaldol	Drug	0.04856263747194398
+Parathyroid Neoplasms	Ibandronic Acid	Drug	0.0494980095831938
+Parathyroid Neoplasms	Metanephrine	Drug	0.049655261694020875
+Parathyroid Neoplasms	Ascorbic Acid	Drug	0.050126310444205895
+Parathyroid Neoplasms	Cysteine	Drug	0.05042197343103265
+Parathyroid Neoplasms	RET Inhibitor	Drug	0.051369265378338934
+Parathyroid Neoplasms	Amifostine	Drug	0.051790020597677705
+Parathyroid Neoplasms	Normetanephrine	Drug	0.051790020597677705
+Parathyroid Neoplasms	Cyclosporine	Drug	0.05233964148640348
+Parathyroid Neoplasms	Quin2	Drug	0.054139378864983725
+Parathyroid Neoplasms	Aldesleukin	Drug	0.05421967685883333
+Parathyroid Neoplasms	bis(tri-n-butyltin)oxide	Drug	0.055987777611742666
+Parathyroid Neoplasms	Glycerol	Drug	0.056403049183606564
+Parathyroid Neoplasms	Proline	Drug	0.05727115805548458
+Parathyroid Neoplasms	FD&C Blue No. 1	Drug	0.058085773072370575
+Parathyroid Neoplasms	1,25-dihydroxyergocalciferol	Drug	0.05850466089549209
+Parathyroid Neoplasms	F-18 Fluoroethyltyrosine	Drug	0.05850466089549209
+Parathyroid Neoplasms	Morphine	Drug	0.05919542290433077
+Parathyroid Neoplasms	Folic Acid	Drug	0.0619325510605217
+Parathyroid Neoplasms	Pralsetinib	Drug	0.06323541996630819
+Parathyroid Neoplasms	Burosumab	Drug	0.06470599111825438
+Parathyroid Neoplasms	NAD	Drug	0.06528820755318003
+Parathyroid Neoplasms	Gamma-Aminobutyric Acid	Drug	0.0669010906114624
+Parathyroid Neoplasms	Agar	Drug	0.06821156605923051
+Parathyroid Neoplasms	AMYLASE	Drug	0.06881168960893125
+Parathyroid Neoplasms	Tributyrin	Drug	0.06885329885163131
+Parathyroid Neoplasms	Mitotane	Drug	0.06931231335273821
+Parathyroid Neoplasms	oil red O	Drug	0.06943149099503511
+Parathyroid Neoplasms	Doxorubicin	Drug	0.0696153726274221
+Parathyroid Neoplasms	KN 62	Drug	0.07198276520112877
+Parathyroid Neoplasms	Gallium Ga 68 Citrate	Drug	0.072099252655507
+Parathyroid Neoplasms	Mycophenolic Acid	Drug	0.07222103927140561
+Parathyroid Neoplasms	Recombinant Interleukin-1-beta	Drug	0.07234757797287145
+Parathyroid Neoplasms	Paricalcitol	Drug	0.07244915205628107
+Parathyroid Neoplasms	24,25-Dihydroxycholecalciferol	Drug	0.07350279602733402
+Parathyroid Neoplasms	Hexestrol	Drug	0.07456238891495588
+Parathyroid Neoplasms	Samarium Sm-153 Lexidronam	Drug	0.07520114828708212
+Parathyroid Neoplasms	MACC Regimen	Drug	0.07558258599844701
+Parathyroid Neoplasms	Dexamethasone	Drug	0.07642228417026826
+Parathyroid Neoplasms	Phenylalanine	Drug	0.0769971318943658
+Parathyroid Neoplasms	Fluorides	Drug	0.07702876390153762
+Parathyroid Neoplasms	Tris-acryl Gelatin Microspheres	Drug	0.07749672138099246
+Parathyroid Neoplasms	cupric sulfide	Drug	0.077540057195309
+Parathyroid Neoplasms	Growth Hormone-Releasing Hormone	Drug	0.07807646597341529
+Parathyroid Neoplasms	sudan red	Drug	0.07826562944484801
+Parathyroid Neoplasms	Fluorouracil	Drug	0.07955313976386379
+Parathyroid Neoplasms	Methotrexate	Drug	0.08204898032882744
+Parathyroid Neoplasms	CXCR4 Inhibitor	Drug	0.08252813950565419
+Parathyroid Neoplasms	Cyclophosphamide	Drug	0.08285157225296076
+Parathyroid Neoplasms	Dinoprostone	Drug	0.08393404538987179
+Parathyroid Neoplasms	Edetic Acid	Drug	0.08543935051431552
+Parathyroid Neoplasms	Arachidonic Acid	Drug	0.08652994234031018
+Parathyroid Neoplasms	Interleukin-4	Drug	0.08694686499372742
+Parathyroid Neoplasms	Calcium Carbonate	Drug	0.08910253186297927
+Parathyroid Neoplasms	Seocalcitol	Drug	0.08922879029311737
+Parathyroid Neoplasms	Diazoxide	Drug	0.0901425399242934
+Parathyroid Neoplasms	Metiamide	Drug	0.09029964254467575
+Parathyroid Neoplasms	Selpercatinib	Drug	0.09122612023513316
+Parathyroid Neoplasms	Recombinant Tumor Necrosis Factor-Alpha	Drug	0.09155727757103937
+Parathyroid Neoplasms	Fibrin	Drug	0.09197037071421475
+Parathyroid Neoplasms	Stabilized Sulphur Hexafluoride Microbubble-Based Contrast Agent	Drug	0.0920576382573431
+Parathyroid Neoplasms	Lysine	Drug	0.09291147664432248
+Parathyroid Neoplasms	Aspartic Acid	Drug	0.09341300799615761
+Parathyroid Neoplasms	Radium Ra 223 Dichloride	Drug	0.09485217045445213
+Parathyroid Neoplasms	perchlorate	Drug	0.09546443245917692
+Parathyroid Neoplasms	Uridine Triacetate	Drug	0.09673430886542476
+Parathyroid Neoplasms	Acetic Acid	Drug	0.09701794477681439
+Parathyroid Neoplasms	Acetylcysteine	Drug	0.09732249995892792
+Parathyroid Neoplasms	Benzodiazepines	Drug	0.09811673399523989
+Parathyroid Neoplasms	Fluorescein	Drug	0.0983740325280468
+Parathyroid Neoplasms	Ethanol	Drug	0.09956604691671271
+Parathyroid Neoplasms	Sodium Bicarbonate Solution	Drug	0.10057259283211446
+Parathyroid Neoplasms	Maxacalcitol	Drug	0.10057259283211446
+Parathyroid Neoplasms	Atropine	Drug	0.10098865494153986
+Parathyroid Neoplasms	Interferon Alfa-N1	Drug	0.10410558789818329
+Parathyroid Neoplasms	1-(5-Isoquinolinesulfonyl)-2-Methylpiperazine	Drug	0.10439160009269244
+Parathyroid Neoplasms	Gonadotropin-Releasing Hormone	Drug	0.10477524534359628
+Parathyroid Neoplasms	Mesenchymal Stem Cell	Drug	0.10625312734890263
+Parathyroid Neoplasms	Indomethacin	Drug	0.1084534854360595
+Parathyroid Neoplasms	Sodium Iodide	Drug	0.10907988273180505
+Parathyroid Neoplasms	Iopamidol	Drug	0.11040484724898633
+Parathyroid Neoplasms	Dimethyl Sulfoxide	Drug	0.11208199312800073
+Parathyroid Neoplasms	Adenosine	Drug	0.11332473194647347
+Parathyroid Neoplasms	Folitixorin	Drug	0.11455376362481799
+Parathyroid Neoplasms	Plasma Ultrafiltrate	Drug	0.11488107118987487
+Parathyroid Neoplasms	3-deazaneplanocin	Drug	0.11790202478423781
+Parathyroid Neoplasms	Ciprofloxacin	Drug	0.12040478918684912
+Parathyroid Neoplasms	Iproplatin	Drug	0.12083490662857405
+Parathyroid Neoplasms	Etidronic Acid	Drug	0.1209168216734113
+Parathyroid Neoplasms	Tolbutamide	Drug	0.12092792859403802
+Parathyroid Neoplasms	Warfarin	Drug	0.12476754698608604
+Parathyroid Neoplasms	Clopamide	Drug	0.1262347441209458
+Parathyroid Neoplasms	Epidermal Growth Factor	Drug	0.12760437742102265
+Parathyroid Neoplasms	Ditiocarb	Drug	0.12885898861885245
+Parathyroid Neoplasms	Decitabine	Drug	0.128872507310851
+Parathyroid Neoplasms	Tetradecanoylphorbol Acetate	Drug	0.12989168954860553
+Parathyroid Neoplasms	Galactose	Drug	0.13098091914980167
+Parathyroid Neoplasms	Ethylene	Drug	0.13213764346786644
+Parathyroid Neoplasms	IV Fluid	Drug	0.1338266653212297
+Parathyroid Neoplasms	Glycosaminoglycan	Drug	0.1338455909825255
+Parathyroid Neoplasms	Therapeutic Cortisone	Drug	0.1341805170662101
+Parathyroid Neoplasms	Ampicillin	Drug	0.1363331987126537
+Parathyroid Neoplasms	N-caproylsphingosine	Drug	0.13704485186678686
+Parathyroid Neoplasms	Corticosterone	Drug	0.13962379518826487
+Parathyroid Neoplasms	polyacrylamide	Drug	0.13973500017752372
+Parathyroid Neoplasms	Oxytocin	Drug	0.14223060513647398
+Parathyroid Neoplasms	Tissue Plasminogen Activator	Drug	0.14363598191126306
+Parathyroid Neoplasms	Polyethylene Glycol	Drug	0.1451868879568578
+Parathyroid Neoplasms	Casein	Drug	0.1462838343601113
+Parathyroid Neoplasms	Gentamicin	Drug	0.14700973327075093
+Parathyroid Neoplasms	ICE Regimen	Drug	0.14746626398835944
+Parathyroid Neoplasms	Nitrous Oxide	Drug	0.14764151175984971
+Parathyroid Neoplasms	alpha-Linolenic Acid	Drug	0.148102544252629
+Parathyroid Neoplasms	Caffeine	Drug	0.14909926323225062
+Parathyroid Neoplasms	Ozone	Drug	0.15020683866255638
+Parathyroid Neoplasms	Sirolimus	Drug	0.1508376513411103
+Parathyroid Neoplasms	Tamoxifen	Drug	0.15099154433310252
+Parathyroid Neoplasms	epicatechin gallate	Drug	0.15267163513608312
+Parathyroid Neoplasms	FOLLITROPIN ALFA/BETA	Drug	0.15402832708876443
+Parathyroid Neoplasms	Cycloheximide	Drug	0.15423365020583776
+Parathyroid Neoplasms	Eicosapentaenoic Acid	Drug	0.15451553828754674
+Parathyroid Neoplasms	Arginine Vasopressin	Drug	0.15477847703718495
+Parathyroid Neoplasms	Lithium Hydroxide	Drug	0.15505514293600808
+Parathyroid Neoplasms	Canrenone	Drug	0.15579648491711404
+Parathyroid Neoplasms	Cinanserin	Drug	0.15579648491711404
+Parathyroid Neoplasms	Tetracycline	Drug	0.15648377367498206
+Parathyroid Neoplasms	Glutamine	Drug	0.15711395074832926
+Parathyroid Neoplasms	Amphotericin B	Drug	0.15823396934052464
+Parathyroid Neoplasms	Tacrolimus	Drug	0.15879110890957798
+Parathyroid Neoplasms	Luteinizing Hormone	Drug	0.16023038885203186
+Parathyroid Neoplasms	Erythromycin	Drug	0.16024170296616114
+Parathyroid Neoplasms	Ammonium Lauryl Sulfate	Drug	0.1624065760691026
+Parathyroid Neoplasms	Rifampin	Drug	0.1639191877491223
+Parathyroid Neoplasms	Tretinoin	Drug	0.16419958928639242
+Parathyroid Neoplasms	Quercetin	Drug	0.16832811478910034
+Parathyroid Neoplasms	big gastrin	Drug	0.17049114936468798
+Parathyroid Neoplasms	Diazepam	Drug	0.17105117234064074
+Parathyroid Neoplasms	Vitamin A	Drug	0.1714036157885565
+Parathyroid Neoplasms	Azathioprine	Drug	0.1726637019283651
+Parathyroid Neoplasms	Thymidine	Drug	0.17365180893753754
+Parathyroid Neoplasms	Dacarbazine	Drug	0.17488555747888632
+Parathyroid Neoplasms	Gallium Nitrate	Drug	0.1766499889520812
+Parathyroid Neoplasms	Isoniazid	Drug	0.17694606742449878
+Parathyroid Neoplasms	VASOPRESSIN	Drug	0.17897140492408314
+Parathyroid Neoplasms	Lomustine	Drug	0.1791867473072338
+Parathyroid Neoplasms	Theophylline	Drug	0.18007415953165923
+Parathyroid Neoplasms	Lidocaine	Drug	0.18072433359036255
+Parathyroid Neoplasms	Aldosterone	Drug	0.18353607848507028
+Parathyroid Neoplasms	Uridine	Drug	0.1838835462319032
+Parathyroid Neoplasms	Carbimazole	Drug	0.18631511418808655
+Parathyroid Neoplasms	Rubber	Drug	0.18713957242192802
+Parathyroid Neoplasms	Formaldehyde	Drug	0.1880266432108676
+Parathyroid Neoplasms	Sincalide	Drug	0.18879009925904994
+Parathyroid Neoplasms	Bleomycin	Drug	0.19038642310090303
+Parathyroid Neoplasms	Calcium Lactate	Drug	0.1920235664012606
+Parathyroid Neoplasms	EPINEPHRINE	Drug	0.1922190292587853
+Parathyroid Neoplasms	Saline	Drug	0.20027318947087017
+Parathyroid Neoplasms	Durapatite	Drug	0.20186933368180876
+Parathyroid Neoplasms	Vincristine	Drug	0.20250471102563722
+Parathyroid Neoplasms	Tumor Debulking	Drug	0.2059552459935693
+Parathyroid Neoplasms	phorbol	Drug	0.20756573850197074
+Parathyroid Neoplasms	Therapeutic Vasoactive Intestinal Peptide	Drug	0.2106418200332945
+Parathyroid Neoplasms	Levodopa	Drug	0.21100201427660087
+Parathyroid Neoplasms	Somatostatin Receptor Agonist	Drug	0.21107872628766794
+Parathyroid Neoplasms	Valproic Acid	Drug	0.21336381267086607
+Parathyroid Neoplasms	Vitamin B 12	Drug	0.21676873792985546
+Parathyroid Neoplasms	hydrogen sulfite	Drug	0.21719720401710826
+Parathyroid Neoplasms	Mitomycin	Drug	0.21787287437251568
+Parathyroid Neoplasms	Linoleic Acid	Drug	0.219413167415434
+Parathyroid Neoplasms	Lithium Chloride	Drug	0.21962691442493446
+Parathyroid Neoplasms	Acetone	Drug	0.22024331675561287
+Parathyroid Neoplasms	Inositol	Drug	0.2220643137731761
+Parathyroid Neoplasms	Chlorpromazine	Drug	0.22397901669665102
+Parathyroid Neoplasms	Acetaminophen	Drug	0.2242562574970889
+Parathyroid Neoplasms	Epoprostenol	Drug	0.22588120818493124
+Parathyroid Neoplasms	Therapeutic Melatonin	Drug	0.22999069304471573
+Parathyroid Neoplasms	Pentetic Acid	Drug	0.23020992608252563
+Parathyroid Neoplasms	Colforsin	Drug	0.2356664641440189
+Parathyroid Neoplasms	Trimipramine	Drug	0.23696470968282096
+Parathyroid Neoplasms	Verapamil	Drug	0.2373639154934624
+Parathyroid Neoplasms	Absorbable Gelatin Sponge	Drug	0.24706198245747307
+Parathyroid Neoplasms	calcium phosphate, monobasic, anhydrous	Drug	0.24706198245747307
+Parathyroid Neoplasms	Isoproterenol	Drug	0.24824183273055594
+Parathyroid Neoplasms	Selenocysteine	Drug	0.25142719663359825
+Parathyroid Neoplasms	Docetaxel	Drug	0.25471609002616313
+Parathyroid Neoplasms	Doxycycline	Drug	0.25639993498385655
+Parathyroid Neoplasms	Tromethamine	Drug	0.26029327724554846
+Parathyroid Neoplasms	Ioflupane I-123	Drug	0.264047276482731
+Parathyroid Neoplasms	Carmine	Drug	0.2672946542022306
+Parathyroid Neoplasms	somatostatin receptor 2	Drug	0.2677914116501302
+Parathyroid Neoplasms	Clonidine	Drug	0.2697468101781058
+Parathyroid Neoplasms	NG-Nitroarginine Methyl Ester	Drug	0.27441001481404115
+Parathyroid Neoplasms	VAMP Regimen	Drug	0.2747013067631432
+Parathyroid Neoplasms	Mannitol	Drug	0.2754355500450919
+Parathyroid Neoplasms	Methadone	Drug	0.27726683556623233
+Parathyroid Neoplasms	multidrug resistance-associated protein 1	Drug	0.2812206356265615
+Parathyroid Neoplasms	Dinoprost	Drug	0.28187520679253497
+Parathyroid Neoplasms	Reserpine	Drug	0.2862884761936935
+Parathyroid Neoplasms	Chloroquine	Drug	0.2889448278130977
+Parathyroid Neoplasms	diphenyl	Drug	0.29167435840604017
+Parathyroid Neoplasms	Infliximab	Drug	0.29505028318459126
+Parathyroid Neoplasms	Tacrine	Drug	0.29656693450166394
+Parathyroid Neoplasms	Therapeutic Hydrocortisone	Drug	0.29913668387776227
+Parathyroid Neoplasms	Growth Hormone	Drug	0.2993628339954531
+Parathyroid Neoplasms	Glutaral	Drug	0.3038621837156006
+Parathyroid Neoplasms	Cabergoline	Drug	0.3044202235716559
+Parathyroid Neoplasms	Nutritional Supplement Drink	Drug	0.30508598620074456
+Parathyroid Neoplasms	Biotin	Drug	0.30684355503124405
+Parathyroid Neoplasms	Metformin	Drug	0.30889663298700304
+Parathyroid Neoplasms	Fura-2	Drug	0.3115974641033878
+Parathyroid Neoplasms	Spironolactone	Drug	0.3120493298184897
+Parathyroid Neoplasms	Framycetin	Drug	0.3135930412351323
+Parathyroid Neoplasms	Anguidine	Drug	0.31578190338062256
+Parathyroid Neoplasms	Collagenase	Drug	0.317680623537017
+Parathyroid Neoplasms	Propranolol	Drug	0.31892863488989803
+Parathyroid Neoplasms	VIVA Regimen	Drug	0.3204933147650202
+Parathyroid Neoplasms	Therapeutic Immune Globulin	Drug	0.3247866346859071
+Parathyroid Neoplasms	Glucosamine	Drug	0.3259370495718107
+Parathyroid Neoplasms	Antithrombin III	Drug	0.32739986176949765
+Parathyroid Neoplasms	Adrenomedullin	Drug	0.3282640694522788
+Parathyroid Neoplasms	Polychlorinated Biphenyls	Drug	0.33098858143077414
+Parathyroid Neoplasms	Pyrrolidonecarboxylic Acid	Drug	0.33918561252060553
+Parathyroid Neoplasms	somatostatin receptor 5	Drug	0.3403147390107277
+Parathyroid Neoplasms	Coenzyme Q10	Drug	0.34981257226832085
+Parathyroid Neoplasms	Ceftriaxone	Drug	0.3533931171133886
+Parathyroid Neoplasms	Clotrimazole	Drug	0.35801641063074857
+Parathyroid Neoplasms	alachlor	Drug	0.36004888139113655
+Parathyroid Neoplasms	Deoxycytidine	Drug	0.3654863509769694
+Parathyroid Neoplasms	Palmitic Acid	Drug	0.37091917332137
+Parathyroid Neoplasms	amsonic acid	Drug	0.3769332703064313
+Parathyroid Neoplasms	Imatinib	Drug	0.37863103216040467
+Parathyroid Neoplasms	UROKINASE	Drug	0.38526819035352866
+Parathyroid Neoplasms	Camptothecin	Drug	0.38632794833583556
+Parathyroid Neoplasms	dibenzo(1,4)dioxin	Drug	0.38854873806059403
+Parathyroid Neoplasms	acetonitrile	Drug	0.3897858258548539
+Parathyroid Neoplasms	4'-chlorodiazepam	Drug	0.3924978117242625
+Parathyroid Neoplasms	Carboplatin	Drug	0.39773499504514565
+Parathyroid Neoplasms	MOPP Regimen	Drug	0.4069419454450208
+Parathyroid Neoplasms	Hexachlorobenzene	Drug	0.40825467365433965
+Parathyroid Neoplasms	Targeted Therapy Agent	Drug	0.4110183743480658
+Parathyroid Neoplasms	Etoposide	Drug	0.41215539474849466
+Parathyroid Neoplasms	Freund's Adjuvant	Drug	0.4169600920589692
+Parathyroid Neoplasms	Zidovudine	Drug	0.4229755025986548
+Parathyroid Neoplasms	Phenytoin	Drug	0.4257141954573093
+Parathyroid Neoplasms	Nitroprusside	Drug	0.4298711334257749
+Parathyroid Neoplasms	p-Chloroamphetamine	Drug	0.43502394701622155
+Parathyroid Neoplasms	Xylometazoline	Drug	0.4360803493006244
+Parathyroid Neoplasms	Deoxyglucose	Drug	0.44028536527703105
+Parathyroid Neoplasms	Lugol's Solution	Drug	0.44294248188876917
+Parathyroid Neoplasms	Esomeprazole	Drug	0.4453000919261666
+Parathyroid Neoplasms	Eosine Yellowish-(YS)	Drug	0.44887399895476504
+Parathyroid Neoplasms	Iohexol	Drug	0.45220566773369114
+Parathyroid Neoplasms	Ulinastatin	Drug	0.4530276511147989
+Parathyroid Neoplasms	GONADOTROPIN, CHORIONIC	Drug	0.4565653702530576
+Parathyroid Neoplasms	Ceramide	Drug	0.46329037553950597
+Parathyroid Neoplasms	Polychlorinated Dibenzodioxins	Drug	0.46334896037652984
+Parathyroid Neoplasms	Astemizole	Drug	0.4639969156950799
+Parathyroid Neoplasms	Chlorothiazide	Drug	0.4738109463176827
+Parathyroid Neoplasms	Gallium Ga 68 Gozetotide	Drug	0.474794025997632
+Parathyroid Neoplasms	Thalidomide	Drug	0.4757276392302826
+Parathyroid Neoplasms	Creatine	Drug	0.47788970399432057
+Parathyroid Neoplasms	Kallikreins	Drug	0.48623675024066054
+Parathyroid Neoplasms	Hydrochlorothiazide	Drug	0.4945208698650728
+Parathyroid Neoplasms	Corticotropin	Drug	0.4951799145838459
+Parathyroid Neoplasms	Sphingosine	Drug	0.4970649100141558
+Parathyroid Neoplasms	Dihydroxyphenylalanine	Drug	0.508293401030835
+Parathyroid Neoplasms	Olaparib	Drug	0.5099636864265396
+Parathyroid Neoplasms	Chlorozotocin	Drug	0.5198701543602126
+Parathyroid Neoplasms	thiophosphoric acid	Drug	0.524745868216524
+Parathyroid Neoplasms	Chlorambucil	Drug	0.5248063098875525
+Parathyroid Neoplasms	Tetranitromethane	Drug	0.5272206745198008
+Parathyroid Neoplasms	Iodide	Drug	0.5347869384417505
+Parathyroid Neoplasms	Bromodeoxyuridine	Drug	0.5393805302181779
+Parathyroid Neoplasms	Colchicine	Drug	0.5404621301769451
+Parathyroid Neoplasms	Allopurinol	Drug	0.542610420708416
+Parathyroid Neoplasms	Calcimycin	Drug	0.5573024378385627
+Parathyroid Neoplasms	bipiperidyl mustard	Drug	0.5603346948930767
+Parathyroid Neoplasms	Sevoflurane	Drug	0.5611780284386905
+Parathyroid Neoplasms	calmidazolium	Drug	0.5660815013000968
+Parathyroid Neoplasms	Multidrug Resistance Modulator	Drug	0.5671206966749284
+Parathyroid Neoplasms	Itraconazole	Drug	0.5686180604036395
+Parathyroid Neoplasms	Egtazic Acid	Drug	0.5696593974480216
+Parathyroid Neoplasms	LIPASE	Drug	0.570308592101567
+Parathyroid Neoplasms	Busulfan	Drug	0.5707035596135784
+Parathyroid Neoplasms	Indium In-111	Drug	0.573387759530772
+Parathyroid Neoplasms	Tocladesine	Drug	0.5860877464901313
+Parathyroid Neoplasms	Bucladesine	Drug	0.6006352440307251
+Parathyroid Neoplasms	Cycloleucine	Drug	0.6050858440924934
+Parathyroid Neoplasms	Phencyclidine	Drug	0.6051099776900327
+Parathyroid Neoplasms	Devazepide	Drug	0.6055613312312517
+Parathyroid Neoplasms	Fluconazole	Drug	0.6103767174914934
+Parathyroid Neoplasms	Melphalan	Drug	0.6188201536765096
+Parathyroid Neoplasms	Fentanyl	Drug	0.6192572422240772
+Parathyroid Neoplasms	Interleukin 1 Receptor Antagonist Protein	Drug	0.6223977203856582
+Parathyroid Neoplasms	Sevelamer	Drug	0.6357578135352476
+Parathyroid Neoplasms	Triamcinolone	Drug	0.6498022657542032
+Parathyroid Neoplasms	Naphthalene	Drug	0.6574682522084567
+Parathyroid Neoplasms	Colistin	Drug	0.666240447478324
+Parathyroid Neoplasms	Gadopentetate	Drug	0.6847570811737403
+Parathyroid Neoplasms	Asparagine	Drug	0.6864360269428901
+Parathyroid Neoplasms	Propidium Iodide	Drug	0.6945621577807721
+Parathyroid Neoplasms	2-aminoethoxydiphenyl borate	Drug	0.7023978911635632
+Parathyroid Neoplasms	Serum Albumin, Human	Drug	0.7089660079948797
+Parathyroid Neoplasms	Orphan Drug	Drug	0.7186883301917261
+Parathyroid Neoplasms	Olanzapine	Drug	0.719521704822119
+Parathyroid Neoplasms	MEK Inhibitor PD-98059	Drug	0.7219609835315834
+Parathyroid Neoplasms	Staurosporine	Drug	0.7443451172687904
+Parathyroid Neoplasms	Pepsin A	Drug	0.7615701314423793
+Parathyroid Neoplasms	Isoflurane	Drug	0.7631869469179335
+Parathyroid Neoplasms	Magnesium Hydroxide	Drug	0.768678276691868
+Parathyroid Neoplasms	Pomalidomide	Drug	0.770886319086043
+Parathyroid Neoplasms	Dobutamine	Drug	0.7731367437734844
+Parathyroid Neoplasms	Fucose	Drug	0.773755505704867
+Parathyroid Neoplasms	Promegestone	Drug	0.7749318207944236
+Parathyroid Neoplasms	Gadobutrol	Drug	0.7885529261909834
+Parathyroid Neoplasms	Quinolinic Acid	Drug	0.7885678244755927
+Parathyroid Neoplasms	propionaldehyde	Drug	0.7940606288227636
+Parathyroid Neoplasms	Metaraminol	Drug	0.7954428959746805
+Parathyroid Neoplasms	Nifedipine	Drug	0.7961165181427448
+Parathyroid Neoplasms	Triiodothyronine	Drug	0.8026409054217513
+Parathyroid Neoplasms	Ifosfamide	Drug	0.8079287371783497
+Parathyroid Neoplasms	Insulin, Isophane	Drug	0.8249722988676486
+Parathyroid Neoplasms	Azacitidine	Drug	0.8336795464594353
+Parathyroid Neoplasms	Ethylene Oxide	Drug	0.8630875439978286
+Parathyroid Neoplasms	Bicarbonates	Drug	0.8635164150830569
+Parathyroid Neoplasms	Methylcellulose	Drug	0.8802954763491476
+Parathyroid Neoplasms	uranyl acetate	Drug	0.8839767871093025
+Parathyroid Neoplasms	Glipizide	Drug	0.8885540502508187
+Parathyroid Neoplasms	Recombinant Fibroblast Growth Factor 1	Drug	0.894691058170274
+Parathyroid Neoplasms	diethylamine	Drug	0.9291522914191404
+Parathyroid Neoplasms	Fluorodopa F 18	Drug	0.9291522914191404
+Parathyroid Neoplasms	Lysergic Acid Diethylamide	Drug	0.9594418475947708
+Parathyroid Neoplasms	2-Propanol	Drug	0.9756321097706411
+Parathyroid Neoplasms	Palifermin	Drug	0.9794444385046528
+Parathyroid Neoplasms	Quinidine	Drug	0.9818645212166489
+Parathyroid Neoplasms	Cetuximab	Drug	1
+Parathyroid Neoplasms	Deamino Arginine Vasopressin	Drug	1
+Parathyroid Neoplasms	Human Growth Hormone	Drug	1
+Parathyroid Neoplasms	Adenosine Monophosphate	Drug	1
+Parathyroid Neoplasms	Succinylcholine	Drug	1
+Parathyroid Neoplasms	Citalopram	Drug	1
+Parathyroid Neoplasms	Enflurane	Drug	1
+Parathyroid Neoplasms	Methysergide	Drug	1
+Parathyroid Neoplasms	Diethylstilbestrol	Drug	1
+Parathyroid Neoplasms	Ropivacaine	Drug	1
+Parathyroid Neoplasms	Bupivacaine	Drug	1
+Parathyroid Neoplasms	Pyrazinamide	Drug	1
+Parathyroid Neoplasms	Diltiazem	Drug	1
+Parathyroid Neoplasms	Cidofovir	Drug	1
+Parathyroid Neoplasms	Amlodipine	Drug	1
+Parathyroid Neoplasms	Sorafenib	Drug	1
+Parathyroid Neoplasms	Griseofulvin	Drug	1
+Parathyroid Neoplasms	Imipramine	Drug	1
+Parathyroid Neoplasms	Lenalidomide	Drug	1
+Parathyroid Neoplasms	Raloxifene	Drug	1
+Parathyroid Neoplasms	Alitretinoin	Drug	1
+Parathyroid Neoplasms	Propylthiouracil	Drug	1
+Parathyroid Neoplasms	Succimer	Drug	1
+Parathyroid Neoplasms	Vinblastine	Drug	1
+Parathyroid Neoplasms	Amiloride	Drug	1
+Parathyroid Neoplasms	Inulin	Drug	1
+Parathyroid Neoplasms	Magnesium Sulfate	Drug	1
+Parathyroid Neoplasms	Thioridazine	Drug	1
+Parathyroid Neoplasms	Midazolam	Drug	1
+Parathyroid Neoplasms	Fludrocortisone	Drug	1
+Parathyroid Neoplasms	Nitrofurantoin	Drug	1
+Parathyroid Neoplasms	Procaine	Drug	1
+Parathyroid Neoplasms	Lisinopril	Drug	1
+Parathyroid Neoplasms	Rocuronium	Drug	1
+Parathyroid Neoplasms	Atracurium	Drug	1
+Parathyroid Neoplasms	Modafinil	Drug	1
+Parathyroid Neoplasms	Tranylcypromine	Drug	1
+Parathyroid Neoplasms	Methimazole	Drug	1
+Parathyroid Neoplasms	Naproxen	Drug	1
+Parathyroid Neoplasms	Propofol	Drug	1
+Parathyroid Neoplasms	Levamisole	Drug	1
+Parathyroid Neoplasms	Temozolomide	Drug	1
+Parathyroid Neoplasms	Aminolevulinic Acid	Drug	1
+Parathyroid Neoplasms	Prednisolone	Drug	1
+Parathyroid Neoplasms	Emtricitabine	Drug	1
+Parathyroid Neoplasms	Mechlorethamine	Drug	1
+Parathyroid Neoplasms	Remifentanil	Drug	1
+Parathyroid Neoplasms	Simendan	Drug	1
+Parathyroid Neoplasms	Famotidine	Drug	1
+Parathyroid Neoplasms	Fulvestrant	Drug	1
+Parathyroid Neoplasms	Ethiodized Oil	Drug	1
+Parathyroid Neoplasms	Neomycin	Drug	1
+Parathyroid Neoplasms	Gabapentin	Drug	1
+Parathyroid Neoplasms	Levobupivacaine	Drug	1
+Parathyroid Neoplasms	Hydroxyurea	Drug	1
+Parathyroid Neoplasms	Ketoprofen	Drug	1
+Parathyroid Neoplasms	Edrophonium	Drug	1
+Parathyroid Neoplasms	Metyrapone	Drug	1
+Parathyroid Neoplasms	Ketoconazole	Drug	1
+Parathyroid Neoplasms	Irbesartan	Drug	1
+Parathyroid Neoplasms	Probenecid	Drug	1
+Parathyroid Neoplasms	Pimozide	Drug	1
+Parathyroid Neoplasms	Capecitabine	Drug	1
+Parathyroid Neoplasms	Amiodarone	Drug	1
+Parathyroid Neoplasms	Rabeprazole	Drug	1
+Parathyroid Neoplasms	Halothane	Drug	1
+Parathyroid Neoplasms	Calcium Chloride	Drug	1
+Parathyroid Neoplasms	Procarbazine	Drug	1
+Parathyroid Neoplasms	Flecainide	Drug	1
+Parathyroid Neoplasms	Captopril	Drug	1
+Parathyroid Neoplasms	Bromocriptine	Drug	1
+Parathyroid Neoplasms	Dantrolene	Drug	1
+Parathyroid Neoplasms	Aripiprazole	Drug	1
+Parathyroid Neoplasms	Clomipramine	Drug	1
+Parathyroid Neoplasms	Iodixanol	Drug	1
+Parathyroid Neoplasms	Digitoxin	Drug	1
+Parathyroid Neoplasms	Everolimus	Drug	1
+Parathyroid Neoplasms	methylamine	Drug	1
+Parathyroid Neoplasms	tetrabutylammonium	Drug	1
+Parathyroid Neoplasms	Thimerosal	Drug	1
+Parathyroid Neoplasms	Diminazene	Drug	1
+Parathyroid Neoplasms	Oxalic Acid	Drug	1
+Parathyroid Neoplasms	Urea	Drug	1
+Parathyroid Neoplasms	Hypoxanthine	Drug	1
+Parathyroid Neoplasms	3-methyladenine	Drug	1
+Parathyroid Neoplasms	diphosphoric acid	Drug	1
+Parathyroid Neoplasms	Nitroarginine	Drug	1
+Parathyroid Neoplasms	Trichostatin A	Drug	1
+Parathyroid Neoplasms	Thiouracil	Drug	1
+Parathyroid Neoplasms	Tyramine	Drug	1
+Parathyroid Neoplasms	Ammonium Chloride	Drug	1
+Parathyroid Neoplasms	Ethane	Drug	1
+Parathyroid Neoplasms	Trichloroacetic Acid	Drug	1
+Parathyroid Neoplasms	Osmium Tetroxide	Drug	1
+Parathyroid Neoplasms	Perchloric Acid	Drug	1
+Parathyroid Neoplasms	Trypan Blue	Drug	1
+Parathyroid Neoplasms	Rotenone	Drug	1
+Parathyroid Neoplasms	p-Dimethylaminoazobenzene	Drug	1
+Parathyroid Neoplasms	Melanocyte-Stimulating Hormones	Drug	1
+Parathyroid Neoplasms	Oxotremorine	Drug	1
+Parathyroid Neoplasms	cesium chloride	Drug	1
+Parathyroid Neoplasms	paraform	Drug	1
+Parathyroid Neoplasms	Homovanillic Acid	Drug	1
+Parathyroid Neoplasms	Trifluoroacetic Acid	Drug	1
+Parathyroid Neoplasms	Meglumine	Drug	1
+Parathyroid Neoplasms	Pentachlorophenol	Drug	1
+Parathyroid Neoplasms	Amitrole	Drug	1
+Parathyroid Neoplasms	Dichlorodiphenyl Dichloroethylene	Drug	1
+Parathyroid Neoplasms	5-Methylcytosine	Drug	1
+Parathyroid Neoplasms	ethylamine	Drug	1
+Parathyroid Neoplasms	O-(6)-methylguanine	Drug	1
+Parathyroid Neoplasms	Sulfur Hexafluoride	Drug	1
+Parathyroid Neoplasms	Ionomycin	Drug	1
+Parathyroid Neoplasms	globotriaosylceramide	Drug	1
+Parathyroid Neoplasms	gamma-Linolenic Acid	Drug	1
+Parathyroid Neoplasms	Indigo Carmine	Drug	1
+Parathyroid Neoplasms	formamide	Drug	1
+Parathyroid Neoplasms	PK 11195	Drug	1
+Parathyroid Neoplasms	calphostin C	Drug	1
+Parathyroid Neoplasms	Fluo-3	Drug	1
+Parathyroid Neoplasms	tebufenozide	Drug	1
+Parathyroid Neoplasms	Tumor Necrosis Factor Ligand Superfamily Member 10	Drug	1
+Parathyroid Neoplasms	Y 27632	Drug	1
+Parathyroid Neoplasms	Aprotinin	Drug	1
+Parathyroid Neoplasms	Ipilimumab	Drug	1
+Parathyroid Neoplasms	Vedolizumab	Drug	1
+Parathyroid Neoplasms	Pyrilamine	Drug	1
+Parathyroid Neoplasms	Potassium Iodide	Drug	1
+Parathyroid Neoplasms	Plerixafor	Drug	1
+Parathyroid Neoplasms	farnesyl pyrophosphate	Drug	1
+Parathyroid Neoplasms	1-Methyl-3-isobutylxanthine	Drug	1
+Parathyroid Neoplasms	Wortmannin	Drug	1
+Parathyroid Neoplasms	tributyltin	Drug	1
+Parathyroid Neoplasms	Triclosan	Drug	1
+Parathyroid Neoplasms	Hematoporphyrins	Drug	1
+Parathyroid Neoplasms	Gastric Inhibitory Polypeptide	Drug	1
+Parathyroid Neoplasms	Calcitonin Gene-Related Peptide	Drug	1
+Parathyroid Neoplasms	gastric inhibitory polypeptide receptor	Drug	1
+Parathyroid Neoplasms	Iopromide	Drug	1
+Parathyroid Neoplasms	Keyhole Limpet Hemocyanin	Drug	1
+Parathyroid Neoplasms	Carboxyamidotriazole	Drug	1
+Parathyroid Neoplasms	Sodium Thiosulfate	Drug	1
+Parathyroid Neoplasms	Spirogermanium	Drug	1
+Parathyroid Neoplasms	Streptavidin	Drug	1
+Parathyroid Neoplasms	MART-1 Antigen	Drug	1
+Parathyroid Neoplasms	Barium Sulfate	Drug	1
+Parathyroid Neoplasms	Sodium Phosphate	Drug	1
+Parathyroid Neoplasms	Tetanus Toxoid Helper Peptide	Drug	1
+Parathyroid Neoplasms	Tegafur	Drug	1
+Parathyroid Neoplasms	Sodium Citrate	Drug	1
+Parathyroid Neoplasms	F-18 16 Alpha-Fluoroestradiol	Drug	1
+Parathyroid Neoplasms	Nivolumab	Drug	1
+Parathyroid Neoplasms	Therapeutic Hemin	Drug	1
+Parathyroid Neoplasms	Silver Nitrate	Drug	1
+Parathyroid Neoplasms	Prostate Health Cocktail Dietary Supplement	Drug	1
+Parathyroid Neoplasms	Gluconates	Drug	1
+Parathyroid Neoplasms	Sodium Fluoride	Drug	1
+Parathyroid Neoplasms	Talc	Drug	1
+Parathyroid Neoplasms	Technetium Tc 99m Sulfur Colloid	Drug	1
+Parathyroid Neoplasms	Technetium Tc 99m Pentetate	Drug	1
+Parathyroid Neoplasms	Afimoxifene	Drug	1
+Parathyroid Neoplasms	Trypsin Inhibitor, Kazal Pancreatic	Drug	1
+Parathyroid Neoplasms	Tetraethylammonium	Drug	1
+Parathyroid Neoplasms	Pancreatic Enzyme	Drug	1
+Parathyroid Neoplasms	Lenvatinib	Drug	1
+Parathyroid Neoplasms	Atezolizumab	Drug	1
+Parathyroid Neoplasms	Pembrolizumab	Drug	1
+Parathyroid Neoplasms	Carbon Nanoparticle-based Formulation	Drug	1
+Parathyroid Neoplasms	Nitroglycerin/Sodium Citrate/Ethanol Solution	Drug	1
+Parathyroid Neoplasms	Aluminum Hydroxide	Drug	1
+Parathyroid Neoplasms	Recombinant Transforming Growth Factor	Drug	1
+Parathyroid Neoplasms	Recombinant Transforming Growth Factor-Beta 1	Drug	1
+Parathyroid Neoplasms	Carbon C-14	Drug	1
+Parathyroid Neoplasms	Yttrium Y-90	Drug	1
+Parathyroid Neoplasms	Tartaric Acid	Drug	1
+Parathyroid Neoplasms	Cabozantinib	Drug	1
+Parathyroid Neoplasms	Prolinedithiocarbamate	Drug	1
+Parathyroid Neoplasms	Rosuvastatin	Drug	1
+Parathyroid Neoplasms	Hematein	Drug	1
+Parathyroid Neoplasms	Stearic Acid	Drug	1
+Parathyroid Neoplasms	Lithium Cation	Drug	1
+Parathyroid Neoplasms	Growth Hormone-Releasing Hormone Analogue	Drug	1
+Parathyroid Neoplasms	Dapagliflozin	Drug	1
+Parathyroid Neoplasms	Ethylenediamine	Drug	1
+Parathyroid Neoplasms	Sodium Polymetaphosphate	Drug	1
+Parathyroid Neoplasms	Vecuronium	Drug	1
+Parathyroid Neoplasms	Calcium Phosphate	Drug	1
+Parathyroid Neoplasms	Thapsigargin	Drug	1
+Parathyroid Neoplasms	Demethylating Agent	Drug	1
+Parathyroid Neoplasms	Other Blood Form Product	Drug	1
+Parathyroid Neoplasms	Lenomorelin	Drug	1
