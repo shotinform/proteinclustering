@@ -1,0 +1,473 @@
+Selection	Association Name	Association Type	Significance
+MEN1	Menin Inhibitor	Drug	0.000004868139542891469
+MEN1	Revumenib	Drug	0.000009670998012155845
+MEN1	Ziftomenib	Drug	0.000017336080718203878
+MEN1	Menin-MLL Interaction Inhibitor JNJ-75276617	Drug	0.00007800832097789765
+MEN1	Menin Inhibitor DSP-5336	Drug	0.00007800832097789765
+MEN1	Menin Inhibitor BMF-219	Drug	0.00007800832097789765
+MEN1	Recombinant Parathyroid Hormone	Drug	0.00011917409889459902
+MEN1	Menogaril	Drug	0.00017721115568517196
+MEN1	Somatostatin	Drug	0.00020546088866017092
+MEN1	Magrolimab	Drug	0.00029806854986725483
+MEN1	Pivekimab	Drug	0.0003902850885746414
+MEN1	SUNIRINE	Drug	0.0003902850885746414
+MEN1	Pentetreotide	Drug	0.0004333771498034404
+MEN1	Octreotide	Drug	0.00045655946115467515
+MEN1	MLL/MLLT1 Fusion Protein	Drug	0.0006247485616109695
+MEN1	Gilteritinib	Drug	0.000681478060026934
+MEN1	Secretin	Drug	0.0008201558235372671
+MEN1	Cabergoline	Drug	0.0008346892114716249
+MEN1	Pinometostat	Drug	0.000880543748588555
+MEN1	Somatostatin Receptor Agonist	Drug	0.0009193688831376789
+MEN1	Fluorine F 18 Fluorocholine	Drug	0.0009262597215932639
+MEN1	Pivekimab Sunirine	Drug	0.0009377081616867576
+MEN1	Colloidal Gold-Bound Tumor Necrosis Factor	Drug	0.0010160091252982314
+MEN1	Lavoltidine	Drug	0.0010377332363005244
+MEN1	Gallium Ga 68-DOTATATE	Drug	0.0010530364852790975
+MEN1	Mezigdomide	Drug	0.0011726843889117305
+MEN1	Growth Hormone-Releasing Hormone	Drug	0.0012581287493031508
+MEN1	Glucagon	Drug	0.0012632872626202715
+MEN1	Gallium Ga 68-DOTANOC	Drug	0.0013152114548732501
+MEN1	Technetium Tc 99m Sestamibi	Drug	0.0015141233108147047
+MEN1	Enasidenib	Drug	0.0016541281522995481
+MEN1	Capecitabine/Temozolomide Regimen	Drug	0.0018068501427116522
+MEN1	Venetoclax	Drug	0.001889064818401478
+MEN1	Ivosidenib	Drug	0.0019640369850297797
+MEN1	Everolimus	Drug	0.0022124477537690673
+MEN1	Lanreotide	Drug	0.0022376467179379867
+MEN1	BCL-2 Inhibitor	Drug	0.00225820028150864
+MEN1	Growth Hormone	Drug	0.002329515851083402
+MEN1	Lysine	Drug	0.0024018867120651787
+MEN1	somatostatin receptor 2	Drug	0.0024167538810184915
+MEN1	Eprenetapopt	Drug	0.0030392381568791834
+MEN1	Mitotane	Drug	0.0034834695821171244
+MEN1	Corticotropin	Drug	0.0034866693303054275
+MEN1	Therapeutic Insulin	Drug	0.0034933194925144246
+MEN1	Iberdomide	Drug	0.0036928416328642286
+MEN1	Esomeprazole	Drug	0.0037211510509789015
+MEN1	Azacitidine/Venetoclax Regimen	Drug	0.003851189554373527
+MEN1	Lutetium Lu 177 Dotatate	Drug	0.0039018665111910616
+MEN1	Omeprazole	Drug	0.003953020548213152
+MEN1	3-N-(2-fluoroethyl)spiperone	Drug	0.004168182515644489
+MEN1	Gallium Ga 68-Edotreotide	Drug	0.004326827694982021
+MEN1	Sunitinib	Drug	0.004412696742220693
+MEN1	Diazoxide	Drug	0.0044891748188993445
+MEN1	Gemtuzumab	Drug	0.004786369123733056
+MEN1	elaiophylin	Drug	0.0048033588664829876
+MEN1	3,5-diiodothyropropionic acid	Drug	0.00504195992919304
+MEN1	Human Growth Hormone	Drug	0.005076148513346264
+MEN1	Cinacalcet	Drug	0.0052710728156550955
+MEN1	Quizartinib	Drug	0.005499452840899651
+MEN1	somatostatin receptor 5	Drug	0.006526642598183509
+MEN1	cephaelin	Drug	0.006638368731168031
+MEN1	Sulconazole	Drug	0.0072797351710897715
+MEN1	Midostaurin	Drug	0.007353079707386205
+MEN1	alachlor	Drug	0.007448501367824701
+MEN1	Calcitonin	Drug	0.0074632475523013775
+MEN1	YM 022	Drug	0.007601021280819117
+MEN1	Tyrosine	Drug	0.008017007540935516
+MEN1	Folitixorin	Drug	0.008600269193169136
+MEN1	indolactam V	Drug	0.008728697541160173
+MEN1	Glasdegib	Drug	0.008890198259443845
+MEN1	big gastrin	Drug	0.008944373289893063
+MEN1	Coenzyme Q7	Drug	0.009456248523037997
+MEN1	Diethylstilbestrol	Drug	0.009685210824095533
+MEN1	Dopamine Agonist	Drug	0.00978895183979016
+MEN1	Diepoxybutane	Drug	0.010098872577184484
+MEN1	Evofosfamide	Drug	0.01034826921377151
+MEN1	pegvisomant	Drug	0.012159533382125866
+MEN1	somatotropin releasing hormone receptor	Drug	0.012180941937026166
+MEN1	Sirolimus	Drug	0.012302777288460789
+MEN1	Furylfuramide	Drug	0.012376128275514205
+MEN1	Teniposide	Drug	0.012530988003577728
+MEN1	Copanlisib	Drug	0.012714765468879943
+MEN1	Recombinant Vascular Endothelial Growth Factor	Drug	0.012714765468879943
+MEN1	Peptichemio	Drug	0.012750739350579163
+MEN1	Lanreotide Long-Acting Aqueous Gel	Drug	0.012796753542641095
+MEN1	Sapanisertib	Drug	0.014029669094813622
+MEN1	ERGOCALCIFEROL	Drug	0.014256194058946379
+MEN1	TRK Inhibitor	Drug	0.014854846110214023
+MEN1	5-bromouridine	Drug	0.014937506515862401
+MEN1	Liposome-encapsulated Daunorubicin-Cytarabine	Drug	0.01510290528565149
+MEN1	Abemaciclib	Drug	0.01604607961783212
+MEN1	Therapeutic Hydrocortisone	Drug	0.016661067129120806
+MEN1	Dinaciclib	Drug	0.016845885908242042
+MEN1	integrin alpha7beta1	Drug	0.017179189404810592
+MEN1	Blinatumomab	Drug	0.01724034594616593
+MEN1	Therapeutic Vasoactive Intestinal Peptide	Drug	0.017652265019589712
+MEN1	Galunisertib	Drug	0.0181816207305191
+MEN1	Edotreotide	Drug	0.018600419229972298
+MEN1	Gastric Inhibitory Polypeptide	Drug	0.018868970063590937
+MEN1	Deguelin	Drug	0.019439996887581884
+MEN1	Nedaplatin	Drug	0.02029596400295961
+MEN1	gastric inhibitory polypeptide receptor	Drug	0.020761783535401136
+MEN1	Pralatrexate	Drug	0.020909496434381055
+MEN1	Temozolomide	Drug	0.021131537930254192
+MEN1	Plk1 Inhibitor BI 2536	Drug	0.021465808139751262
+MEN1	Paraffin	Drug	0.023107857694397098
+MEN1	Pantoprazole	Drug	0.023646949339912307
+MEN1	Prolinedithiocarbamate	Drug	0.02463439014687837
+MEN1	Timonacic	Drug	0.026664297661226504
+MEN1	Iproplatin	Drug	0.02724051306670377
+MEN1	5-bromo-4-chloro-3-indolyl beta-galactoside	Drug	0.02733962055858563
+MEN1	Tucidinostat	Drug	0.027376194308266363
+MEN1	Larotrectinib	Drug	0.028069829440794496
+MEN1	Tumor Debulking	Drug	0.028370138525828207
+MEN1	Recombinant Transforming Growth Factor-Alpha	Drug	0.029026448560958394
+MEN1	Alfacalcidol	Drug	0.029474877085614977
+MEN1	Entrectinib	Drug	0.030423853407375783
+MEN1	Inotuzumab Ozogamicin	Drug	0.03138868464682219
+MEN1	PI3K/BET Inhibitor LY294002	Drug	0.032459352090148004
+MEN1	Lansoprazole	Drug	0.03262624284848755
+MEN1	Vatalanib	Drug	0.03350548196210853
+MEN1	Cabozantinib	Drug	0.03481087387681765
+MEN1	Aldosterone	Drug	0.036831766138363566
+MEN1	vasopressin, 1-(1-mercaptocyclohexaneacetic acid)-2-(O- methyl-L-tyrosine)-8-L-arginine-	Drug	0.037608008361203794
+MEN1	Calcium Citrate	Drug	0.037697861061701726
+MEN1	Talazoparib	Drug	0.037697861061701726
+MEN1	endothelial PAS domain-containing protein 1	Drug	0.03811120237230462
+MEN1	Tipifarnib	Drug	0.03913939574709307
+MEN1	Pevonedistat	Drug	0.03968186501303542
+MEN1	Charcoal	Drug	0.040572052031444386
+MEN1	Calcium Gluconate	Drug	0.04089605671590851
+MEN1	cobaltiprotoporphyrin	Drug	0.04122449728209542
+MEN1	Veliparib	Drug	0.04250118419638656
+MEN1	Ethanol	Drug	0.04476286108113435
+MEN1	Ferric Maltol	Drug	0.045625525856622745
+MEN1	FOLLITROPIN ALFA/BETA	Drug	0.04659150422880981
+MEN1	Dienogest	Drug	0.048224081574533145
+MEN1	Bromocriptine	Drug	0.05150491300153995
+MEN1	isocitric acid	Drug	0.05320039095197987
+MEN1	COPP Regimen	Drug	0.05320689496744175
+MEN1	Tazarotene	Drug	0.054442056622278155
+MEN1	Pasireotide	Drug	0.054442056622278155
+MEN1	Streptozocin	Drug	0.05586829706307359
+MEN1	Cholesterol	Drug	0.057979156563266854
+MEN1	Idebenone	Drug	0.05817857415542919
+MEN1	Glucose	Drug	0.05906488735374263
+MEN1	Wortmannin	Drug	0.05930795978654083
+MEN1	Angiostatin	Drug	0.06148325402855829
+MEN1	Recombinant Transforming Growth Factor	Drug	0.06523019986662028
+MEN1	Stanozolol	Drug	0.068374593663395
+MEN1	Ferrous Sulfate	Drug	0.06983200865182339
+MEN1	Cytisinicline	Drug	0.07107797077476262
+MEN1	Fluorodeoxyglucose F18	Drug	0.07115333749242511
+MEN1	Azacitidine	Drug	0.07252223275905438
+MEN1	blebbistatin	Drug	0.0762491426483137
+MEN1	isoliquiritigenin	Drug	0.07635139345181734
+MEN1	Entinostat	Drug	0.07881537461993528
+MEN1	Trichostatin A	Drug	0.08129090388598113
+MEN1	Recombinant Activin	Drug	0.0814352829474767
+MEN1	Metiamide	Drug	0.08390594146495943
+MEN1	Bromodeoxyuridine	Drug	0.0862344827287446
+MEN1	KT 5720	Drug	0.08748609292824483
+MEN1	Alvocidib	Drug	0.08759199209671267
+MEN1	parthenolide	Drug	0.09164182452410546
+MEN1	IH636 Grape Seed Proanthocyanidin Extract	Drug	0.09357183870085213
+MEN1	Nalotimagene Carmaleucel	Drug	0.09585074590633981
+MEN1	Trypsin Inhibitor, Kazal Pancreatic	Drug	0.09636117364445568
+MEN1	CHOP Regimen	Drug	0.09715662090911079
+MEN1	leptomycin B	Drug	0.09835818186415239
+MEN1	Serum Albumin, Human	Drug	0.09863817698382488
+MEN1	Mesenchymal Stem Cell	Drug	0.10023034131151884
+MEN1	Orphan Drug	Drug	0.10465422920748073
+MEN1	Proteasome Inhibitor MG-132	Drug	0.10970783790569254
+MEN1	Bleomycin	Drug	0.11287079596819836
+MEN1	Metanephrine	Drug	0.11346297225157505
+MEN1	Adenosine Triphosphate	Drug	0.11418604647615396
+MEN1	Arginine/Omega-3 Fatty Acids/Nucleotides Oral Supplement	Drug	0.11739299426365317
+MEN1	itaconic acid	Drug	0.11981167754459535
+MEN1	isoxaflutole	Drug	0.1201612960469368
+MEN1	Nitric Oxide	Drug	0.12035497730637304
+MEN1	Recombinant Tyrosinase-Related Protein-2	Drug	0.12074476418768887
+MEN1	Tretinoin	Drug	0.1212685944294381
+MEN1	Fluorodopa F 18	Drug	0.12156324102542694
+MEN1	Hydrogen Peroxide	Drug	0.1225509540502933
+MEN1	Pamidronate	Drug	0.12616716329992092
+MEN1	Norepinephrine	Drug	0.1269282983845734
+MEN1	Capecitabine	Drug	0.12697251208707527
+MEN1	Denosumab	Drug	0.12796019630716524
+MEN1	Metyrapone	Drug	0.13641200996129382
+MEN1	CAPOX Regimen	Drug	0.13748048430356108
+MEN1	MUC-1 Antigen	Drug	0.13821526738427098
+MEN1	Pentagastrin	Drug	0.14002405938188778
+MEN1	Yttrium Y-90	Drug	0.1414163562372989
+MEN1	Chymosin	Drug	0.14178750137528717
+MEN1	Herbimycin	Drug	0.14253090693287176
+MEN1	Bombesin	Drug	0.14290964500958797
+MEN1	Epidermal Growth Factor	Drug	0.14511492492096204
+MEN1	Recombinant Tumor Necrosis Factor Family Protein	Drug	0.15116983697982245
+MEN1	FOLFIRI-Ziv-aflibercept Regimen	Drug	0.15617039261699084
+MEN1	Auranofin	Drug	0.15784571808205697
+MEN1	Glutathione	Drug	0.1585360246608445
+MEN1	Emtricitabine	Drug	0.15883113295302684
+MEN1	p-Chloroamphetamine	Drug	0.1596915404219893
+MEN1	Tamoxifen	Drug	0.16320649193792583
+MEN1	FOLFIRI Regimen	Drug	0.16593725960120634
+MEN1	Therapeutic Corticosteroid	Drug	0.16776481204736893
+MEN1	p31 integrase protein, Human immunodeficiency virus 1	Drug	0.17151547210854456
+MEN1	Daclatasvir	Drug	0.17339253000589494
+MEN1	Cyclohexylamines	Drug	0.1756837958985848
+MEN1	Salicylic Acid	Drug	0.17697886593988604
+MEN1	Thyrotropin-Releasing Hormone	Drug	0.18353718780018785
+MEN1	Brachyury protein	Drug	0.1863675776628593
+MEN1	Pyrrolidonecarboxylic Acid	Drug	0.18845066602638802
+MEN1	Palbociclib	Drug	0.18999221524186663
+MEN1	Luteinizing Hormone	Drug	0.19054851361325548
+MEN1	Pentetic Acid	Drug	0.19070584096201998
+MEN1	Adenosine	Drug	0.19409318575745585
+MEN1	puerarin	Drug	0.19534784868858351
+MEN1	Tetraxetan	Drug	0.19676880387413492
+MEN1	Icatibant	Drug	0.19905245246064104
+MEN1	Saline	Drug	0.2088274032409805
+MEN1	Recombinant Inhibin B	Drug	0.2121337051705551
+MEN1	GONADOTROPIN, CHORIONIC	Drug	0.21604940076640564
+MEN1	Cyclophosphamide	Drug	0.21833875148896992
+MEN1	Goserelin	Drug	0.22593058500067686
+MEN1	Polyethylene Glycols	Drug	0.22621670077938663
+MEN1	Normetanephrine	Drug	0.2269983881073409
+MEN1	Glutamine	Drug	0.23422122901425574
+MEN1	Manganese Chloride	Drug	0.23735079754235255
+MEN1	FOLFOX Regimen	Drug	0.24080291538323859
+MEN1	Estradiol	Drug	0.2420488777163726
+MEN1	Alizarin Red S	Drug	0.24507586419105853
+MEN1	Cobaltous Chloride	Drug	0.24730733489261197
+MEN1	Ascorbic Acid	Drug	0.248675303756632
+MEN1	Glucaric Acid	Drug	0.2513193020557647
+MEN1	Interferon-gamma	Drug	0.2556040780019245
+MEN1	Progesterone	Drug	0.2585057568876264
+MEN1	Lanosterol	Drug	0.26472742961664114
+MEN1	Catechin	Drug	0.26479576396400223
+MEN1	NAD	Drug	0.2659828074874727
+MEN1	Pazopanib	Drug	0.2705688671379579
+MEN1	Loperamide	Drug	0.2736011513416618
+MEN1	AKT Inhibitor	Drug	0.28419422734513605
+MEN1	Colforsin	Drug	0.28732407268718313
+MEN1	Etoposide	Drug	0.31003066640289534
+MEN1	Chlorothiazide	Drug	0.3108062750041814
+MEN1	Thyroxine	Drug	0.311253516882331
+MEN1	Abamectin	Drug	0.31907130976295295
+MEN1	Olaparib	Drug	0.3267185853286528
+MEN1	Lithium Hydroxide	Drug	0.3267185853286528
+MEN1	Ketamine	Drug	0.33053144055535777
+MEN1	Recombinant Parathyroid Hormone-Related Protein	Drug	0.33638968972688493
+MEN1	Antineoplaston A10	Drug	0.3450719714314759
+MEN1	Recombinant Human Endostatin	Drug	0.3481932024177515
+MEN1	Dibotermin Alfa	Drug	0.36690093726346007
+MEN1	Phenylalanine	Drug	0.37066151502698413
+MEN1	Aldesleukin	Drug	0.38201414630428016
+MEN1	Urea	Drug	0.3852686224662292
+MEN1	Ditiocarb	Drug	0.3923572223431877
+MEN1	Cysteine	Drug	0.4027904227348986
+MEN1	Rifabutin	Drug	0.4060838405592052
+MEN1	Selenomethionine	Drug	0.43405197438163373
+MEN1	Polyunsaturated Fatty Acid	Drug	0.4374094838863069
+MEN1	Paraquat	Drug	0.44331982382498214
+MEN1	Lithium Chloride	Drug	0.44482518262797577
+MEN1	Dexamethasone	Drug	0.45487059033179666
+MEN1	Lipopolysaccharide	Drug	0.46074984714328093
+MEN1	Cyproheptadine	Drug	0.46814840304288474
+MEN1	aflibercept	Drug	0.4911146239752382
+MEN1	LIPASE	Drug	0.5008094168800911
+MEN1	Monophosphoryl Lipid A	Drug	0.5016439869402359
+MEN1	Benzodiazepines	Drug	0.5040862530934105
+MEN1	Dinoprostone	Drug	0.5082075324535794
+MEN1	Propranolol	Drug	0.5296539257773978
+MEN1	Dehydroepiandrosterone	Drug	0.533653805531352
+MEN1	Paclitaxel	Drug	0.5396270410501292
+MEN1	Cidofovir	Drug	0.5690668057283769
+MEN1	Fluorides	Drug	0.5715958327817019
+MEN1	Y 27632	Drug	0.5797358918851715
+MEN1	Bispecific Antibody	Drug	0.5797358918851715
+MEN1	Gluconates	Drug	0.5800187988914367
+MEN1	Fibrin	Drug	0.584722549217735
+MEN1	Tributyrin	Drug	0.5860376423883606
+MEN1	Coagulation Factor X Human	Drug	0.5911388983389252
+MEN1	Heparin	Drug	0.597233315653601
+MEN1	Chitosan	Drug	0.6012009940863046
+MEN1	Aspirin	Drug	0.6188117613585407
+MEN1	Bortezomib	Drug	0.6253154560369523
+MEN1	Acetylcysteine	Drug	0.639416914963289
+MEN1	Lithium Carbonate	Drug	0.647809645081997
+MEN1	Adenosine Monophosphate	Drug	0.6523612633996638
+MEN1	Isoproterenol	Drug	0.6653409360561515
+MEN1	Copper Sulfate	Drug	0.6659960512772116
+MEN1	Recombinant 70-kD Heat-Shock Protein	Drug	0.6921599299264025
+MEN1	Penicillin G Benzathine	Drug	0.6996584156164114
+MEN1	Tryptophan 2,3-Dioxygenase	Drug	0.700319689698273
+MEN1	Calcitriol	Drug	0.7066277083055482
+MEN1	Interleukin-4	Drug	0.7066485666656643
+MEN1	Gamma-Aminobutyric Acid	Drug	0.7162889184075928
+MEN1	Cromolyn	Drug	0.7309816776176008
+MEN1	Raloxifene	Drug	0.7337318609119694
+MEN1	Alcian Blue	Drug	0.7382200894503727
+MEN1	EPINEPHRINE	Drug	0.8017467528793661
+MEN1	Sodium Phosphate	Drug	0.8339858791614991
+MEN1	N-(2-(4-bromocinnamylamino)ethyl)-5-isoquinolinesulfonamide	Drug	0.8401785508087194
+MEN1	Folic Acid	Drug	0.9111757522137267
+MEN1	1-(5-Isoquinolinesulfonyl)-2-Methylpiperazine	Drug	0.9161575771295727
+MEN1	Iroplact	Drug	0.947770198465459
+MEN1	Triiodothyronine	Drug	0.972673626176632
+MEN1	Thymidine	Drug	0.977041012247162
+MEN1	Dihydroxyphenylalanine	Drug	1
+MEN1	Tissue Inhibitor of Metalloproteinase-2	Drug	1
+MEN1	Interferon Alfa-N1	Drug	1
+MEN1	Sargramostim	Drug	1
+MEN1	Deamino Arginine Vasopressin	Drug	1
+MEN1	Collagenase	Drug	1
+MEN1	Alpha-1-proteinase inhibitor	Drug	1
+MEN1	Becaplermin	Drug	1
+MEN1	Pyruvic Acid	Drug	1
+MEN1	Biotin	Drug	1
+MEN1	Aspartic Acid	Drug	1
+MEN1	Ornithine	Drug	1
+MEN1	alpha-Linolenic Acid	Drug	1
+MEN1	Succinic Acid	Drug	1
+MEN1	Glutamic Acid	Drug	1
+MEN1	Calcifediol	Drug	1
+MEN1	Eicosapentaenoic Acid	Drug	1
+MEN1	Isoleucine	Drug	1
+MEN1	Cholecalciferol	Drug	1
+MEN1	Proline	Drug	1
+MEN1	Caffeine	Drug	1
+MEN1	Azithromycin	Drug	1
+MEN1	Clotrimazole	Drug	1
+MEN1	Tenofovir	Drug	1
+MEN1	Valproic Acid	Drug	1
+MEN1	Gefitinib	Drug	1
+MEN1	Ethambutol	Drug	1
+MEN1	Nimodipine	Drug	1
+MEN1	Sorafenib	Drug	1
+MEN1	Spironolactone	Drug	1
+MEN1	Ceftazidime	Drug	1
+MEN1	Sodium Tetradecyl Sulfate	Drug	1
+MEN1	Lenalidomide	Drug	1
+MEN1	Cisplatin	Drug	1
+MEN1	Oxaliplatin	Drug	1
+MEN1	Vincristine	Drug	1
+MEN1	Fluorouracil	Drug	1
+MEN1	Atropine	Drug	1
+MEN1	Chloroquine	Drug	1
+MEN1	Triamcinolone	Drug	1
+MEN1	Pemetrexed	Drug	1
+MEN1	Gonadotropin-Releasing Hormone	Drug	1
+MEN1	Leucovorin	Drug	1
+MEN1	Verapamil	Drug	1
+MEN1	Pirenzepine	Drug	1
+MEN1	Warfarin	Drug	1
+MEN1	Tobramycin	Drug	1
+MEN1	Fluorescein	Drug	1
+MEN1	Furosemide	Drug	1
+MEN1	Mannitol	Drug	1
+MEN1	Deferoxamine	Drug	1
+MEN1	Irinotecan	Drug	1
+MEN1	Pentoxifylline	Drug	1
+MEN1	Dacarbazine	Drug	1
+MEN1	Ranitidine	Drug	1
+MEN1	Tacrolimus	Drug	1
+MEN1	Mechlorethamine	Drug	1
+MEN1	Fulvestrant	Drug	1
+MEN1	Dactinomycin	Drug	1
+MEN1	Cytarabine	Drug	1
+MEN1	Neomycin	Drug	1
+MEN1	Doxorubicin	Drug	1
+MEN1	Minocycline	Drug	1
+MEN1	Nifedipine	Drug	1
+MEN1	Tolbutamide	Drug	1
+MEN1	Calcium Chloride	Drug	1
+MEN1	Captopril	Drug	1
+MEN1	Metoclopramide	Drug	1
+MEN1	Levodopa	Drug	1
+MEN1	Docetaxel	Drug	1
+MEN1	Decitabine	Drug	1
+MEN1	Glucosamine	Drug	1
+MEN1	Colchicine	Drug	1
+MEN1	Thyroglobulin	Drug	1
+MEN1	Hydroxychloroquine	Drug	1
+MEN1	Genistein	Drug	1
+MEN1	Rhamnose	Drug	1
+MEN1	Staurosporine	Drug	1
+MEN1	1-Butanol	Drug	1
+MEN1	Deoxyuridine	Drug	1
+MEN1	Selenocysteine	Drug	1
+MEN1	Cyclic AMP	Drug	1
+MEN1	Ketoglutaric Acids	Drug	1
+MEN1	Inositol	Drug	1
+MEN1	Palmitic Acid	Drug	1
+MEN1	Formaldehyde	Drug	1
+MEN1	Oxalic Acid	Drug	1
+MEN1	Oleic Acid	Drug	1
+MEN1	Arachidonic Acid	Drug	1
+MEN1	Corticosterone	Drug	1
+MEN1	Nesiritide	Drug	1
+MEN1	Carbon Tetrachloride	Drug	1
+MEN1	Methylcholanthrene	Drug	1
+MEN1	Cycloheximide	Drug	1
+MEN1	Trypan Blue	Drug	1
+MEN1	Melanocyte-Stimulating Hormones	Drug	1
+MEN1	Diethylnitrosamine	Drug	1
+MEN1	Tetranitromethane	Drug	1
+MEN1	Amitrole	Drug	1
+MEN1	Bucladesine	Drug	1
+MEN1	Acridine Orange	Drug	1
+MEN1	Kainic Acid	Drug	1
+MEN1	Ionomycin	Drug	1
+MEN1	thiazolyl blue	Drug	1
+MEN1	amsonic acid	Drug	1
+MEN1	4-amino-4'-hydroxylaminodiphenylsulfone	Drug	1
+MEN1	phorbol	Drug	1
+MEN1	piperidine	Drug	1
+MEN1	1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine	Drug	1
+MEN1	Glycosaminoglycan	Drug	1
+MEN1	Enzymatically-hydrolyzed Whey Protein-based Nutritional Supplement	Drug	1
+MEN1	imazapyr	Drug	1
+MEN1	Tumor Necrosis Factor Ligand Superfamily Member 10	Drug	1
+MEN1	Diphtheria Toxoid/Tetanus Toxoid/Acellular Pertussis Vaccine Adsorbed	Drug	1
+MEN1	Rivaroxaban	Drug	1
+MEN1	Calcium Carbonate	Drug	1
+MEN1	Pepsin A	Drug	1
+MEN1	Kallikreins	Drug	1
+MEN1	Agar	Drug	1
+MEN1	Phosphates	Drug	1
+MEN1	Bradykinin	Drug	1
+MEN1	Plasminogen	Drug	1
+MEN1	Calcitonin Gene-Related Peptide	Drug	1
+MEN1	sodium-iodide symporter	Drug	1
+MEN1	Anguidine	Drug	1
+MEN1	Penclomedine	Drug	1
+MEN1	Peplomycin	Drug	1
+MEN1	Recombinant Human Interleukin-15	Drug	1
+MEN1	Iboctadekin	Drug	1
+MEN1	Adenovirus Vector	Drug	1
+MEN1	Monoclonal Antibody L6	Drug	1
+MEN1	Uridine Triacetate	Drug	1
+MEN1	Ceramide	Drug	1
+MEN1	Recombinant Interleukin-6	Drug	1
+MEN1	Tetradecanoylphorbol Acetate	Drug	1
+MEN1	Coenzyme Q10	Drug	1
+MEN1	Mannose-Binding Lectin	Drug	1
+MEN1	Fibrinolysin	Drug	1
+MEN1	3-Iodobenzylguanidine	Drug	1
+MEN1	Recombinant Tumor Necrosis Factor-Alpha	Drug	1
+MEN1	polyestradiol	Drug	1
+MEN1	Sincalide	Drug	1
+MEN1	Methylselenocysteine	Drug	1
+MEN1	17-alpha-Hydroxyprogesterone	Drug	1
+MEN1	Antithrombin III	Drug	1
+MEN1	Chondroitin	Drug	1
+MEN1	Niacinamide	Drug	1
+MEN1	Chymotrypsin	Drug	1
+MEN1	AMYLASE	Drug	1
+MEN1	25-hydroxyvitamin D	Drug	1
+MEN1	Anthracycline Antineoplastic Antibiotic	Drug	1
+MEN1	MEK Inhibitor PD-98059	Drug	1
+MEN1	PRIME Regimen	Drug	1
+MEN1	Asparagine	Drug	1
+MEN1	DNA Vaccine	Drug	1
+MEN1	Enalaprilat	Drug	1
+MEN1	Iodide	Drug	1
+MEN1	Butyric Acid	Drug	1
+MEN1	Indole	Drug	1
+MEN1	Propidium Iodide	Drug	1
+MEN1	Casein	Drug	1
+MEN1	Lenomorelin	Drug	1

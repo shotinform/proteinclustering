@@ -1,3 +1,5 @@
+# pronalazi 33 proteina koji pripadaju svim bolestima
+
 import pandas as pd
 
 file_path = '/home/korisnik/Desktop/ip2/ip2/supplimenatry_data-1_elac054.xlsx'

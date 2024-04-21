@@ -1,0 +1,350 @@
+Selection	Association Name	Association Type	Significance
+FLNA	Simufilam	Drug	0.000004006422609748483
+FLNA	somatostatin receptor 2	Drug	0.0004083289896744667
+FLNA	Ravoxertinib	Drug	0.00043625098175048755
+FLNA	NVP ADW742	Drug	0.0006161048569976347
+FLNA	Pasireotide	Drug	0.0006513374844218913
+FLNA	4-(N-(S-glutathionylacetyl)amino)phenylarsenoxide	Drug	0.0008475353242417239
+FLNA	calpeptin	Drug	0.0008550953952620831
+FLNA	Cilnidipine	Drug	0.0008820700500735617
+FLNA	kartogenin	Drug	0.0011397074989843996
+FLNA	somatostatin receptor 5	Drug	0.0011726394402287277
+FLNA	Coumaphos	Drug	0.0013005551981667524
+FLNA	Parathion	Drug	0.0016142547570586524
+FLNA	KT 5926	Drug	0.0022923574143374733
+FLNA	MVPP Regimen	Drug	0.0028103805837510184
+FLNA	Paraoxon	Drug	0.0028861958524097394
+FLNA	Elexacaftor	Drug	0.0031736300943842164
+FLNA	Ristocetin	Drug	0.0032344922089099456
+FLNA	Metribolone	Drug	0.0034718910616162494
+FLNA	Somatostatin	Drug	0.003925730075088151
+FLNA	Tezacaftor	Drug	0.004188297228149576
+FLNA	Tyrosine	Drug	0.0043548528087814144
+FLNA	mTOR Kinase Inhibitor PP242	Drug	0.004501321077543628
+FLNA	jasplakinolide	Drug	0.004535231103894267
+FLNA	Linsitinib	Drug	0.004710218138596016
+FLNA	Sarin	Drug	0.005041012156288453
+FLNA	Enzymatically-hydrolyzed Whey Protein-based Nutritional Supplement	Drug	0.0056837875913694404
+FLNA	polyestradiol	Drug	0.005800557814853682
+FLNA	Peplomycin	Drug	0.006132994873534991
+FLNA	pinitol	Drug	0.0072568108211843235
+FLNA	echinacoside	Drug	0.00911040759467377
+FLNA	lysophosphatidic acid	Drug	0.009438539604022278
+FLNA	adriamycinol	Drug	0.010068900508128375
+FLNA	lanthanum chloride	Drug	0.010362483032591475
+FLNA	Enkephalin, Ala(2)-MePhe(4)-Gly(5)-	Drug	0.010858174002653985
+FLNA	Mosapride	Drug	0.010923883655668985
+FLNA	Methyl Parathion	Drug	0.010940176174803341
+FLNA	Prucalopride	Drug	0.011030954933119647
+FLNA	withaferin A	Drug	0.011593804015943683
+FLNA	Radicicol	Drug	0.012104099562773689
+FLNA	Acephate	Drug	0.012588460655280773
+FLNA	katacalcin	Drug	0.012642334086300997
+FLNA	oxalylglycine	Drug	0.012723165075889503
+FLNA	metabotropic glutamate receptor 4	Drug	0.012830978649324639
+FLNA	Timbetasin	Drug	0.012857938994960419
+FLNA	Soman	Drug	0.013225716332277314
+FLNA	Uridine Triacetate	Drug	0.01348613516750764
+FLNA	Thrombin	Drug	0.014176494372354475
+FLNA	Bicalutamide	Drug	0.014250772996352357
+FLNA	15-Hydroxy-11 alpha,9 alpha-(epoxymethano)prosta-5,13-dienoic Acid	Drug	0.014699482541968909
+FLNA	nebulin	Drug	0.015186969007587488
+FLNA	fenamic acid	Drug	0.015459131087248258
+FLNA	pegvisomant	Drug	0.015731574456758542
+FLNA	Recombinant Heregulin	Drug	0.017509335553275034
+FLNA	Brefeldin A	Drug	0.01784086061615167
+FLNA	VX	Drug	0.018278829667845095
+FLNA	4-nitrophenol	Drug	0.018665606967046985
+FLNA	Diprenorphine	Drug	0.019271460004163892
+FLNA	Uridine Triphosphate	Drug	0.019974237639425005
+FLNA	Octreotide	Drug	0.020187901785746698
+FLNA	Epidermal Growth Factor	Drug	0.02022586732089142
+FLNA	Primaquine	Drug	0.02061743116372102
+FLNA	KN 62	Drug	0.020711804923971674
+FLNA	dimyristoylphosphatidylglycerol	Drug	0.020934085625569754
+FLNA	Naltrexone	Drug	0.021065768984257955
+FLNA	Levorphanol	Drug	0.02274696250607683
+FLNA	blebbistatin	Drug	0.022830928958742672
+FLNA	latrunculin B	Drug	0.022886921104725313
+FLNA	Hexadimethrine Bromide	Drug	0.023952981251244287
+FLNA	Cytochalasin B	Drug	0.024100340670035
+FLNA	Sphingosine 1-Phosphate	Drug	0.024306981193380265
+FLNA	calyculin A	Drug	0.024656631769099022
+FLNA	Trypsin Inhibitor, Kazal Pancreatic	Drug	0.025661710350868547
+FLNA	phorbol	Drug	0.026356778458850077
+FLNA	Y 27632	Drug	0.026398975702852514
+FLNA	Colforsin	Drug	0.02673898545728009
+FLNA	Lanreotide	Drug	0.02717650126915033
+FLNA	Human Immunoglobulin M	Drug	0.02723339557283321
+FLNA	Lactulose	Drug	0.027798187399447446
+FLNA	methylmercuric chloride	Drug	0.02885986463815534
+FLNA	Panobinostat	Drug	0.03072641377984616
+FLNA	N-(2-(4-bromocinnamylamino)ethyl)-5-isoquinolinesulfonamide	Drug	0.03262628064578206
+FLNA	Nocodazole	Drug	0.0326587180403652
+FLNA	Retaspimycin	Drug	0.03333180504323903
+FLNA	Iroplact	Drug	0.03476550411935595
+FLNA	Coagulation Factor VII Human	Drug	0.03481484252304757
+FLNA	Calcium Silicate	Drug	0.0349945684667022
+FLNA	Quin2	Drug	0.03508235639310172
+FLNA	Bromodeoxyuridine	Drug	0.036786076015837346
+FLNA	Adenosine Diphosphate	Drug	0.037045506601648334
+FLNA	Triacetoneamine-N-Oxyl	Drug	0.03722702102315177
+FLNA	Cholestanol	Drug	0.037876569692507245
+FLNA	dithiol	Drug	0.03799482987882274
+FLNA	Inositol	Drug	0.038335743733509973
+FLNA	Naloxone	Drug	0.03938045948653795
+FLNA	Tretinoin	Drug	0.039474805556373754
+FLNA	Tirofiban	Drug	0.039596189102122994
+FLNA	Recombinant 70-kD Heat-Shock Protein	Drug	0.039811779927572066
+FLNA	alpha-Linolenic Acid	Drug	0.042092861733902795
+FLNA	Proline	Drug	0.042828135246293954
+FLNA	Isoflurophate	Drug	0.042837220723406635
+FLNA	FOLFIRI-Ziv-aflibercept Regimen	Drug	0.04303677383209118
+FLNA	lactacystin	Drug	0.04412236580836135
+FLNA	FOLFIRI Regimen	Drug	0.04530305347611111
+FLNA	Sphingosine	Drug	0.04607404510107237
+FLNA	Somatostatin Receptor Agonist	Drug	0.04645811927121512
+FLNA	Geldanamycin	Drug	0.04670187810136612
+FLNA	Aminopterin	Drug	0.04746494433017863
+FLNA	bisindolylmaleimide	Drug	0.04847526196285697
+FLNA	Chlorpyrifos	Drug	0.0492056381187628
+FLNA	Biotin	Drug	0.05008902979176252
+FLNA	Adenovirus Vector	Drug	0.0535597296632545
+FLNA	Bleomycin	Drug	0.05475246926355377
+FLNA	Guanosine 5'-O-(3-Thiotriphosphate)	Drug	0.05497726767849042
+FLNA	Cystamine	Drug	0.055112735909488925
+FLNA	Sincalide	Drug	0.05523073655046603
+FLNA	Tinidazole	Drug	0.05725333148131406
+FLNA	Cabergoline	Drug	0.058551419477412235
+FLNA	Sucralfate	Drug	0.05947297524409968
+FLNA	Clenbuterol	Drug	0.05972769425609642
+FLNA	Ionomycin	Drug	0.06081427670077476
+FLNA	isocitric acid	Drug	0.06204984778577906
+FLNA	Anisomycin	Drug	0.06212617871780181
+FLNA	Catechin	Drug	0.06218335526652607
+FLNA	Sodium Bisulfide	Drug	0.06405869977329648
+FLNA	Cobaltous Cation	Drug	0.06460848045387543
+FLNA	Egtazic Acid	Drug	0.06597260869493451
+FLNA	Levomefolic Acid	Drug	0.06711108807750615
+FLNA	Wortmannin	Drug	0.06838861496766638
+FLNA	Puromycin	Drug	0.0685893660033782
+FLNA	Biliverdine	Drug	0.06996338190263494
+FLNA	Milrinone	Drug	0.07115136059167752
+FLNA	Orlistat	Drug	0.07294186194276706
+FLNA	Recombinant Transforming Growth Factor	Drug	0.0744145599337089
+FLNA	Monocrotaline	Drug	0.07477610912309636
+FLNA	Olaparib	Drug	0.07790216512008563
+FLNA	Inosine	Drug	0.078065975697128
+FLNA	leupeptin	Drug	0.08421350352270628
+FLNA	fucoidan	Drug	0.08442028843155731
+FLNA	Bradykinin	Drug	0.08960801972692961
+FLNA	4-hydroxy-2-nonenal	Drug	0.09582180162431542
+FLNA	Ethylnitrosourea	Drug	0.09768319304337827
+FLNA	Recombinant Thymosin	Drug	0.10209136579052053
+FLNA	HEPES	Drug	0.1035127890523881
+FLNA	Imidazole Mustard	Drug	0.1070741445810474
+FLNA	latrunculin A	Drug	0.10714796738479453
+FLNA	formamide	Drug	0.10770214668446362
+FLNA	Sapropterin	Drug	0.10773912388655636
+FLNA	1,2-oleoylphosphatidylcholine	Drug	0.10818316185015839
+FLNA	Insulin Glargine	Drug	0.10959308451706395
+FLNA	Vitamin K 3	Drug	0.11112082367380025
+FLNA	endothelial PAS domain-containing protein 1	Drug	0.1124303603629906
+FLNA	Mesenchymal Stem Cell	Drug	0.11380487461020557
+FLNA	Fenfluramine	Drug	0.11412135365607398
+FLNA	Pralatrexate	Drug	0.11555573364001413
+FLNA	Gluconates	Drug	0.11710999185962108
+FLNA	p-Chloroamphetamine	Drug	0.12528344046451595
+FLNA	Acetylcholinesterase Inhibitor	Drug	0.12568582668917602
+FLNA	Cyclic AMP	Drug	0.13232249003226942
+FLNA	Alcian Blue	Drug	0.13683305384148978
+FLNA	Pyrrolidonecarboxylic Acid	Drug	0.14016654815471827
+FLNA	Casein	Drug	0.1531911171696385
+FLNA	Phosphatidylinositide 3-Kinase Inhibitor	Drug	0.1605725378830538
+FLNA	Fenofibrate	Drug	0.16104308835134967
+FLNA	Alizarin	Drug	0.16721264620120802
+FLNA	Dimyristoylphosphatidylcholine	Drug	0.17984933198785816
+FLNA	Sirolimus	Drug	0.181601621857676
+FLNA	4-Aminobenzoic Acid	Drug	0.18568211243722801
+FLNA	Seaweed	Drug	0.1883779510685926
+FLNA	Ethanol	Drug	0.19159853990841716
+FLNA	Glucose	Drug	0.19954772399606135
+FLNA	Diethylhexyl Phthalate	Drug	0.2032664632830168
+FLNA	Methadone	Drug	0.20489670629401313
+FLNA	Tissue Inhibitor of Metalloproteinase-2	Drug	0.2063183131018972
+FLNA	Myristic Acid	Drug	0.21239137565753496
+FLNA	Lenalidomide	Drug	0.21570498178903758
+FLNA	Sodium Azide	Drug	0.21585175795332168
+FLNA	Folitixorin	Drug	0.21830987109244
+FLNA	Nimodipine	Drug	0.2191920870413053
+FLNA	Monosialotetrahexosylganglioside	Drug	0.2280588031696825
+FLNA	Topotecan	Drug	0.230531276308643
+FLNA	Mesalamine	Drug	0.2385468601519095
+FLNA	Serum Albumin, Human	Drug	0.23952134795118793
+FLNA	3-Nitrotyrosine	Drug	0.24097448814041075
+FLNA	Serum Albumin, Bovine	Drug	0.245534404897065
+FLNA	Methylselenocysteine	Drug	0.24892687808606676
+FLNA	Tetradecanoylphorbol Acetate	Drug	0.25779574443553066
+FLNA	Decitabine	Drug	0.26429233338942354
+FLNA	Ursodeoxycholic Acid	Drug	0.27148184254329616
+FLNA	Cysteine	Drug	0.2816124180671115
+FLNA	Valproic Acid	Drug	0.28176108780298503
+FLNA	Haloperidol	Drug	0.29854760975000816
+FLNA	Morphine	Drug	0.29916161011331555
+FLNA	Cisplatin	Drug	0.3101068270631948
+FLNA	Sildenafil	Drug	0.3130708022353888
+FLNA	Celecoxib	Drug	0.3282071772083387
+FLNA	Menogaril	Drug	0.33801951350541104
+FLNA	Trimethoprim	Drug	0.3397273978341881
+FLNA	Lysine	Drug	0.3437754306522884
+FLNA	Adenosine Triphosphate	Drug	0.34735303651818555
+FLNA	Gefitinib	Drug	0.35111389063813614
+FLNA	Tyramine	Drug	0.3552672434646103
+FLNA	Ferrous Sulfate	Drug	0.3561974595620718
+FLNA	Glutamic Acid	Drug	0.35637517949830366
+FLNA	Thromboxane A2	Drug	0.35886195963659223
+FLNA	Streptavidin	Drug	0.36030647188785897
+FLNA	Cholesterol	Drug	0.3713246251826713
+FLNA	Clotrimazole	Drug	0.37657727344727093
+FLNA	Cetuximab	Drug	0.3831903580940677
+FLNA	Lactic Acid	Drug	0.3862448146076694
+FLNA	Therapeutic Corticosteroid	Drug	0.41391187341977764
+FLNA	Ammonium Lauryl Sulfate	Drug	0.4202245270918578
+FLNA	Glutamine	Drug	0.43781910145148667
+FLNA	Arginine/Omega-3 Fatty Acids/Nucleotides Oral Supplement	Drug	0.4461661149101674
+FLNA	Ethylmaleimide	Drug	0.44947500720486316
+FLNA	Dichloromethotrexate	Drug	0.46309913651507656
+FLNA	Staurosporine	Drug	0.4887261811681591
+FLNA	Temozolomide	Drug	0.4943698714443293
+FLNA	MEK Inhibitor PD-98059	Drug	0.5018878637305252
+FLNA	Spermine	Drug	0.5070593364373978
+FLNA	Polyethylene Glycol	Drug	0.5086803129945875
+FLNA	Propidium Iodide	Drug	0.5194829250444869
+FLNA	Asparagine	Drug	0.5250501144261346
+FLNA	Bortezomib	Drug	0.5275487095944954
+FLNA	Flavin-Adenine Dinucleotide	Drug	0.5317044894716626
+FLNA	Maltose	Drug	0.5591618234455543
+FLNA	Dapsone	Drug	0.5766271523090918
+FLNA	Recombinant Tumor Necrosis Factor Family Protein	Drug	0.590252360724466
+FLNA	Heparan Sulfate	Drug	0.5950949785817375
+FLNA	Recombinant Macrophage Colony-Stimulating Factor	Drug	0.5980439729477622
+FLNA	Phenylalanine	Drug	0.6260480803213991
+FLNA	Acrylamide	Drug	0.644946382972734
+FLNA	Kainic Acid	Drug	0.6469773029443635
+FLNA	Saline	Drug	0.6485494036028498
+FLNA	Recombinant Interleukin-6	Drug	0.6545334338797696
+FLNA	phthalic acid	Drug	0.6570060742845728
+FLNA	Folic Acid	Drug	0.6836207060208878
+FLNA	Chlorambucil	Drug	0.6867027585592981
+FLNA	Dihydroxyphenylalanine	Drug	0.7115600097796729
+FLNA	Oxalic Acid	Drug	0.7208694665258525
+FLNA	Genistein	Drug	0.7443765667118518
+FLNA	Estradiol	Drug	0.7466372121450616
+FLNA	Kallikreins	Drug	0.7486272758452375
+FLNA	Aspartic Acid	Drug	0.7547350339214939
+FLNA	Adenosine	Drug	0.7935967306708972
+FLNA	Fluorescein-5-isothiocyanate	Drug	0.7963275302430507
+FLNA	Urea	Drug	0.8123960285651236
+FLNA	Ulinastatin	Drug	0.8147596297966658
+FLNA	diphosphoric acid	Drug	0.8157533271328792
+FLNA	Chlorophyll A	Drug	0.8827999197807421
+FLNA	Corticotropin	Drug	0.9131749348434304
+FLNA	Carbon Monoxide	Drug	0.9261258328641764
+FLNA	Clozapine	Drug	0.9268643893528633
+FLNA	Ammonium Sulfate	Drug	0.9821371306420517
+FLNA	Sargramostim	Drug	0.9954862318582419
+FLNA	Growth Hormone	Drug	1
+FLNA	Interferon Alfa-N1	Drug	1
+FLNA	UROKINASE	Drug	1
+FLNA	Calcitonin	Drug	1
+FLNA	Therapeutic Insulin	Drug	1
+FLNA	Aldesleukin	Drug	1
+FLNA	Collagenase	Drug	1
+FLNA	Human Growth Hormone	Drug	1
+FLNA	Alpha-1-proteinase inhibitor	Drug	1
+FLNA	Infliximab	Drug	1
+FLNA	Bevacizumab	Drug	1
+FLNA	Pyruvic Acid	Drug	1
+FLNA	Calcitriol	Drug	1
+FLNA	Glutathione	Drug	1
+FLNA	Thiamine	Drug	1
+FLNA	ERGOCALCIFEROL	Drug	1
+FLNA	NAD	Drug	1
+FLNA	Eicosapentaenoic Acid	Drug	1
+FLNA	Vitamin A	Drug	1
+FLNA	Triiodothyronine	Drug	1
+FLNA	Metformin	Drug	1
+FLNA	Phenylephrine	Drug	1
+FLNA	Progesterone	Drug	1
+FLNA	Nitric Oxide	Drug	1
+FLNA	Cyclophosphamide	Drug	1
+FLNA	Guanidine	Drug	1
+FLNA	Chloroquine	Drug	1
+FLNA	Fluorescein	Drug	1
+FLNA	Mannitol	Drug	1
+FLNA	Tetracycline	Drug	1
+FLNA	Etoposide	Drug	1
+FLNA	Ethacrynic Acid	Drug	1
+FLNA	Salicylic Acid	Drug	1
+FLNA	Dactinomycin	Drug	1
+FLNA	Edetic Acid	Drug	1
+FLNA	Cytarabine	Drug	1
+FLNA	Doxorubicin	Drug	1
+FLNA	Mycophenolic Acid	Drug	1
+FLNA	Isoproterenol	Drug	1
+FLNA	Heparin	Drug	1
+FLNA	Ketamine	Drug	1
+FLNA	Paclitaxel	Drug	1
+FLNA	Docetaxel	Drug	1
+FLNA	Bicarbonates	Drug	1
+FLNA	3,4-Methylenedioxyamphetamine	Drug	1
+FLNA	Thyroglobulin	Drug	1
+FLNA	Ethylene Glycol	Drug	1
+FLNA	Taurine	Drug	1
+FLNA	Uridine	Drug	1
+FLNA	Dihydrotestosterone	Drug	1
+FLNA	Uracil	Drug	1
+FLNA	Formaldehyde	Drug	1
+FLNA	Thymidine	Drug	1
+FLNA	Acetylcysteine	Drug	1
+FLNA	Methane	Drug	1
+FLNA	Nitrous Oxide	Drug	1
+FLNA	Charcoal	Drug	1
+FLNA	Hydrogen Peroxide	Drug	1
+FLNA	Fibrin	Drug	1
+FLNA	Cycloheximide	Drug	1
+FLNA	Aluminum Oxide	Drug	1
+FLNA	Paraffin	Drug	1
+FLNA	Methylene Chloride	Drug	1
+FLNA	Tetranitromethane	Drug	1
+FLNA	Calcimycin	Drug	1
+FLNA	polyacrylamide	Drug	1
+FLNA	Polyethylene Glycols	Drug	1
+FLNA	NG-Nitroarginine Methyl Ester	Drug	1
+FLNA	Rubber	Drug	1
+FLNA	Muramidase	Drug	1
+FLNA	Pepsin A	Drug	1
+FLNA	Dextrans	Drug	1
+FLNA	Agar	Drug	1
+FLNA	Phosphates	Drug	1
+FLNA	Botulinum Toxins	Drug	1
+FLNA	Hyaluronic Acid	Drug	1
+FLNA	Iproplatin	Drug	1
+FLNA	Curcumin	Drug	1
+FLNA	Omega-3 Fatty Acid	Drug	1
+FLNA	Interleukin-4	Drug	1
+FLNA	ICE Regimen	Drug	1
+FLNA	Recombinant Parathyroid Hormone	Drug	1
+FLNA	Interferon-gamma	Drug	1
+FLNA	Mannose-Binding Lectin	Drug	1
+FLNA	Nonsteroidal Antiinflammatory Drug	Drug	1
+FLNA	Recombinant Tumor Necrosis Factor-Alpha	Drug	1
+FLNA	Galactose	Drug	1
+FLNA	Antithrombin III	Drug	1
+FLNA	Chondroitin	Drug	1
+FLNA	Technetium TC-99m	Drug	1
+FLNA	Aspirin	Drug	1
+FLNA	Iodide	Drug	1
+FLNA	Ethylene	Drug	1
+FLNA	Gamma-Aminobutyric Acid	Drug	1
+FLNA	Prothrombin	Drug	1

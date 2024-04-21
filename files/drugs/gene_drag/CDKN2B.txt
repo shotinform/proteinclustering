@@ -1,0 +1,923 @@
+Selection	Association Name	Association Type	Significance
+CDKN2B	Ranpirnase	Drug	0.00000667348122868053
+CDKN2B	N-(3-(5-(4-bromo-2-fluorophenylamino)-3-cyclopropyl-8-methyl-2,4,7-trioxo-3,4,7,8-tetrahydro-2H-pyrido(2,3-d)pyrimidin-1-yl)phenyl)methanesulfonamide	Drug	0.00018721464482462726
+CDKN2B	minozac	Drug	0.0001872847262084084
+CDKN2B	Decitabine	Drug	0.000278510453502171
+CDKN2B	CK2-targeting Synthetic Peptide CIGB-300	Drug	0.0003646877814963995
+CDKN2B	Mepramidil	Drug	0.00046829953015068153
+CDKN2B	Azacitidine	Drug	0.0004916520452327463
+CDKN2B	Flurothyl	Drug	0.0005270929774123057
+CDKN2B	6-Phenylhexyl Isothiocyanate	Drug	0.0005947366485345652
+CDKN2B	Palbociclib	Drug	0.001022916316205862
+CDKN2B	Pyridinolcarbamate	Drug	0.0012104766217979905
+CDKN2B	CDK Inhibitor R547	Drug	0.0012194044959864788
+CDKN2B	BMS453	Drug	0.0013134509224403742
+CDKN2B	DNMT1 Mixed-Backbone Antisense Oligonucleotide MG 98	Drug	0.0013134509224403742
+CDKN2B	Corynebacterium Granulosum P40	Drug	0.0015114066080036325
+CDKN2B	CI 959	Drug	0.0019727631378963872
+CDKN2B	Recombinant Transforming Growth Factor-Beta 1	Drug	0.0020105330207310255
+CDKN2B	Sodium Bisulfite	Drug	0.0024365902226024623
+CDKN2B	terreic acid	Drug	0.0027283830708877584
+CDKN2B	methylazoxymethanol	Drug	0.0028005692978727644
+CDKN2B	3-aminopropyl-cyclohexylmethylphosphinic acid	Drug	0.0028229949399904745
+CDKN2B	Recombinant Transforming Growth Factor	Drug	0.002884067083696144
+CDKN2B	Kainic Acid	Drug	0.0031653484412597142
+CDKN2B	kokusaginine	Drug	0.0034862719404882563
+CDKN2B	Phosphorus P-32	Drug	0.0035457151244470265
+CDKN2B	PADRE 965.10	Drug	0.003676099578111418
+CDKN2B	dihydroxyethyldithiocarbamate	Drug	0.0038660696241250084
+CDKN2B	Carisoprodol	Drug	0.004009112885452326
+CDKN2B	5-bromouridine	Drug	0.0044278253389952475
+CDKN2B	sulforhodamine 101	Drug	0.004500516003163748
+CDKN2B	Gamma-Aminobutyric Acid	Drug	0.004509865146368363
+CDKN2B	Bromodeoxyuridine	Drug	0.004526153244515344
+CDKN2B	2'-(4-methylumbelliferyl)-alpha-D-N-acetylneuraminic acid	Drug	0.004627376301119985
+CDKN2B	N-Methylaspartate	Drug	0.004714325092939588
+CDKN2B	Demethylating Agent	Drug	0.0048159847538515035
+CDKN2B	Ivosidenib	Drug	0.005351609950981541
+CDKN2B	Ketamine	Drug	0.005549389422332442
+CDKN2B	Recombinant Activin	Drug	0.005624533420032132
+CDKN2B	Anti-Nucleolin Aptamer AS1411	Drug	0.005630470810579963
+CDKN2B	HC-Toxin	Drug	0.005677910740397408
+CDKN2B	Cyclophosphamide/Mercaptopurine/Prednisone/Vincristine Regimen	Drug	0.005862331878049582
+CDKN2B	IH636 Grape Seed Proanthocyanidin Extract	Drug	0.006272436216967316
+CDKN2B	hydrogen sulfite	Drug	0.00629516041366081
+CDKN2B	Glutamic Acid	Drug	0.006663750201487704
+CDKN2B	Zebularine	Drug	0.006897774657371359
+CDKN2B	Beryllium Sulfate	Drug	0.006925056486599491
+CDKN2B	biocytin	Drug	0.007382272270046753
+CDKN2B	3-aminopropyl(methyl)phosphinic acid	Drug	0.007502718897942193
+CDKN2B	N-methyl D-aspartate receptor subtype 2A	Drug	0.007695562548923318
+CDKN2B	SK&F 82958	Drug	0.00833754359795334
+CDKN2B	tricarballylic acid	Drug	0.009146519080286351
+CDKN2B	EZH2 Inhibitor	Drug	0.009314559453170784
+CDKN2B	Recombinant Neurotrophin-3	Drug	0.009498063112483014
+CDKN2B	Tyrosine	Drug	0.00964748811231051
+CDKN2B	propionic anhydride	Drug	0.009826437273350117
+CDKN2B	Timonacic	Drug	0.009834932442885967
+CDKN2B	Zalcitabine	Drug	0.010391813328193283
+CDKN2B	Arsenic Trioxide	Drug	0.0105618491595128
+CDKN2B	Compound Kushen Injection	Drug	0.010605681756888741
+CDKN2B	isocitric acid	Drug	0.010725564328816427
+CDKN2B	Recombinant Transforming Growth Factor-Beta-2	Drug	0.010767713790988783
+CDKN2B	Moxestrol	Drug	0.011191656277660332
+CDKN2B	Trametinib	Drug	0.011236894612073995
+CDKN2B	Alanosine	Drug	0.011289447400654708
+CDKN2B	3-((aminoiminomethyl)thio)-2-propenoic acid	Drug	0.01168098018852423
+CDKN2B	7-Hydroxystaurosporine	Drug	0.011776024856795343
+CDKN2B	Guadecitabine	Drug	0.011778955537776371
+CDKN2B	Tetranitromethane	Drug	0.012008067552028831
+CDKN2B	3-mercaptopyruvic acid	Drug	0.012171226014387429
+CDKN2B	Sincalide	Drug	0.012196693544652689
+CDKN2B	E 10	Drug	0.01226938598195032
+CDKN2B	chaetocin	Drug	0.012465816845192554
+CDKN2B	Propylthiouracil	Drug	0.012724119092846611
+CDKN2B	2,2,6,6-tetramethylpiperidine-N-oxide-4-amino-4-carboxylic acid	Drug	0.012760740696410932
+CDKN2B	2,2-bis(hydroxymethyl)-1-azabicyclo(2,2,2,)octan-3-one	Drug	0.012859122724851088
+CDKN2B	peiminine	Drug	0.013450193819125995
+CDKN2B	Trichostatin A	Drug	0.013526907300941684
+CDKN2B	Ethacridine	Drug	0.014126689934265012
+CDKN2B	ferric nitrilotriacetate	Drug	0.014126689934265012
+CDKN2B	forsythiaside	Drug	0.014834568036812672
+CDKN2B	saikosaponin D	Drug	0.014989202449175476
+CDKN2B	Alizarin	Drug	0.01516767869285149
+CDKN2B	MEK Inhibitor PD-98059	Drug	0.015235538907548673
+CDKN2B	Tretinoin	Drug	0.015275179836892982
+CDKN2B	nipecotic acid	Drug	0.015304185737983976
+CDKN2B	Mannose-Binding Lectin	Drug	0.0157958772572672
+CDKN2B	5-Methylcytosine	Drug	0.015925334963343755
+CDKN2B	BIIE 0246	Drug	0.016027004518010285
+CDKN2B	musk xylene	Drug	0.016625250035001964
+CDKN2B	O-desmethylangolensin	Drug	0.016924881128071955
+CDKN2B	Tetanus Toxoid Helper Peptide	Drug	0.016978532943516988
+CDKN2B	Rubitecan	Drug	0.017024833575131026
+CDKN2B	Sirolimus	Drug	0.018215582424138753
+CDKN2B	Corticosterone	Drug	0.018828179383561693
+CDKN2B	1,2-ethanedithiol	Drug	0.019435049932619936
+CDKN2B	triethylsilane	Drug	0.019435049932619936
+CDKN2B	7-Aminoactinomycin D	Drug	0.01973603448196014
+CDKN2B	arginyl-glycyl-aspartyl-serine	Drug	0.020633894409330663
+CDKN2B	Hexamethylene Bisacetamide	Drug	0.021126025945222778
+CDKN2B	Pirinixic Acid	Drug	0.021153416234059103
+CDKN2B	Trypan Blue	Drug	0.02139713398440813
+CDKN2B	Iohexol	Drug	0.0214054974137834
+CDKN2B	Diminazene	Drug	0.02178936403375261
+CDKN2B	Iproplatin	Drug	0.022008036998870814
+CDKN2B	kushen	Drug	0.022172803187871685
+CDKN2B	gabazine	Drug	0.022751045004031255
+CDKN2B	Silmitasertib	Drug	0.022887167508807725
+CDKN2B	Saline	Drug	0.02344719592672764
+CDKN2B	isoimperatorin	Drug	0.023603427310665354
+CDKN2B	Enfortumab Vedotin	Drug	0.024424338253697782
+CDKN2B	Imatinib	Drug	0.024579020509503734
+CDKN2B	alpha-Amino-3-hydroxy-5-methyl-4-isoxazolepropionic Acid	Drug	0.024612504876301736
+CDKN2B	neurotrophin 4	Drug	0.024618791510253306
+CDKN2B	Alvocidib	Drug	0.024646850314263394
+CDKN2B	manumycin	Drug	0.025041656185022288
+CDKN2B	Lanatoside C	Drug	0.025144679026722638
+CDKN2B	Bicuculline	Drug	0.025334993469441004
+CDKN2B	Alizarin Red S	Drug	0.02594115771624105
+CDKN2B	Acoustic Coupling Fluid	Drug	0.025971702736935283
+CDKN2B	tetraiodothyroacetic acid	Drug	0.026073643884737357
+CDKN2B	ATR Inhibitor	Drug	0.026073643884737357
+CDKN2B	BCL-2 Inhibitor	Drug	0.02617004545880684
+CDKN2B	Selpercatinib	Drug	0.026177057986512004
+CDKN2B	CHOP Regimen	Drug	0.027165768353422763
+CDKN2B	Contusugene Ladenovec	Drug	0.027213358814422915
+CDKN2B	Quizartinib	Drug	0.027213358814422915
+CDKN2B	N-acetylmethionine	Drug	0.02731720525025305
+CDKN2B	Betamethasone	Drug	0.028313824343765576
+CDKN2B	AKT Inhibitor	Drug	0.02922319244062384
+CDKN2B	Cinobufagin	Drug	0.0294024315646915
+CDKN2B	lanthanide nitrate	Drug	0.030240965951018755
+CDKN2B	oseltamivir carboxylate	Drug	0.030345962042434213
+CDKN2B	Pactamycin	Drug	0.030661189786987522
+CDKN2B	olomoucine	Drug	0.031082052853904276
+CDKN2B	Vigabatrin	Drug	0.031722799999876525
+CDKN2B	N-acetylmuramic acid	Drug	0.032031337667962546
+CDKN2B	Sevoflurane	Drug	0.03240193071652087
+CDKN2B	Mesenchymal Stem Cell	Drug	0.03240998800886623
+CDKN2B	Isoflurane	Drug	0.032481471722416534
+CDKN2B	3-deazaneplanocin	Drug	0.03287787802560935
+CDKN2B	Muscimol	Drug	0.032973408969032995
+CDKN2B	Aminocamptothecin	Drug	0.03340827545280799
+CDKN2B	Pilocarpine	Drug	0.03355951112352018
+CDKN2B	GABA-C receptor	Drug	0.03383332054804404
+CDKN2B	MDM2 Inhibitor	Drug	0.034578708357790186
+CDKN2B	Genistein	Drug	0.03617256273778813
+CDKN2B	Lysine	Drug	0.03677861342419883
+CDKN2B	methyl 6,7-dimethoxy-4-ethyl-beta-carboline-3-carboxylate	Drug	0.03682683119194925
+CDKN2B	Nitrosamine	Drug	0.036835127143324806
+CDKN2B	Cytidine	Drug	0.037295067713853866
+CDKN2B	Arctigenin	Drug	0.03855180423934872
+CDKN2B	camphora	Drug	0.03876816691238868
+CDKN2B	Icotinib	Drug	0.039093020628747435
+CDKN2B	Methylselenocysteine	Drug	0.039261575277154834
+CDKN2B	Methimazole	Drug	0.039306614287847486
+CDKN2B	Pheniramine	Drug	0.039418246423967615
+CDKN2B	2-(4-(2-carboxyethyl)phenethylamino)-5'-N-ethylcarboxamidoadenosine	Drug	0.0402120309298833
+CDKN2B	PI3K/BET Inhibitor LY294002	Drug	0.0416745273448861
+CDKN2B	Interferon Alfa-N1	Drug	0.04250540406226813
+CDKN2B	alpha-methyl-4-carboxyphenylglycine	Drug	0.04335015549716885
+CDKN2B	Annexin A5	Drug	0.04410254336128764
+CDKN2B	Mirdametinib	Drug	0.04412099530028687
+CDKN2B	3-acetylpyridine	Drug	0.04633480439062181
+CDKN2B	Pentylenetetrazole	Drug	0.04745048177355491
+CDKN2B	Technetium Tc 99m Pentetate	Drug	0.04750955648524947
+CDKN2B	Tipifarnib	Drug	0.04767124954635119
+CDKN2B	bisindolylmaleimide	Drug	0.04781301495498258
+CDKN2B	Dicofol	Drug	0.04800632193252746
+CDKN2B	Pralatrexate	Drug	0.04905654414598704
+CDKN2B	Brachyury protein	Drug	0.049350031188932414
+CDKN2B	Menogaril	Drug	0.050225664453867454
+CDKN2B	sulfuryl fluoride	Drug	0.050813629693454904
+CDKN2B	penetratin	Drug	0.05115231935067365
+CDKN2B	Recombinant Interleukin-6	Drug	0.051908467636795484
+CDKN2B	2-amino-7-phosphonoheptanoic acid	Drug	0.05217073158939429
+CDKN2B	Asiatic Acid	Drug	0.05296526681092792
+CDKN2B	Epidermal Growth Factor	Drug	0.05349854666546371
+CDKN2B	pyrazolanthrone	Drug	0.053658483876930826
+CDKN2B	Nitrilotriacetic Acid	Drug	0.05419761088253702
+CDKN2B	Paraldehyde	Drug	0.054446513159772905
+CDKN2B	Recombinant Interleukin-7	Drug	0.05501565848407722
+CDKN2B	Cytarabine	Drug	0.055238089093483426
+CDKN2B	t,t-Muconic Acid	Drug	0.0554763360586812
+CDKN2B	Vorinostat	Drug	0.055564120226051714
+CDKN2B	Butyric Acid	Drug	0.05669199632456695
+CDKN2B	Ciglitazone	Drug	0.05720064987536796
+CDKN2B	Emicizumab	Drug	0.057546708711476845
+CDKN2B	Formestane	Drug	0.058008742683246836
+CDKN2B	Decamethonium	Drug	0.058471488878918974
+CDKN2B	acacetin	Drug	0.058587286859978396
+CDKN2B	pifithrin	Drug	0.05963147859818265
+CDKN2B	1,3-Butadiene	Drug	0.059732876421365134
+CDKN2B	nebulin	Drug	0.060096727487662364
+CDKN2B	trimesic acid	Drug	0.061029380228060204
+CDKN2B	Clemastine	Drug	0.06126299328888459
+CDKN2B	physcione	Drug	0.06126299328888459
+CDKN2B	Silybin	Drug	0.0621719302684835
+CDKN2B	somatotropin releasing hormone receptor	Drug	0.06255109169269533
+CDKN2B	protocatechualdehyde	Drug	0.06278587934857975
+CDKN2B	Lificiguat	Drug	0.06372684464165701
+CDKN2B	Thyroxine	Drug	0.064300916051929
+CDKN2B	Tetradecanoylphorbol Acetate	Drug	0.06469781280464466
+CDKN2B	cylindrospermopsin	Drug	0.06514375428106263
+CDKN2B	4-Aminopyridine	Drug	0.06619490755132612
+CDKN2B	VAMP Regimen	Drug	0.0663295410794323
+CDKN2B	Inosine Dialdehyde	Drug	0.06640052343945407
+CDKN2B	Charcoal	Drug	0.06689448908745138
+CDKN2B	Benzo(a)pyrene	Drug	0.06763385375433881
+CDKN2B	Recombinant Inhibin	Drug	0.0679973638304709
+CDKN2B	Pazopanib	Drug	0.06847323365642273
+CDKN2B	Azetidinecarboxylic Acid	Drug	0.06847554602538128
+CDKN2B	5-Methoxypsoralen	Drug	0.06943413415949615
+CDKN2B	Parecoxib	Drug	0.07087759551075398
+CDKN2B	alpha-Linolenic Acid	Drug	0.07114509725385822
+CDKN2B	Methamphetamine	Drug	0.07180543995943199
+CDKN2B	S-Adenosylmethionine	Drug	0.07254607830564551
+CDKN2B	Framycetin	Drug	0.07341986087181887
+CDKN2B	2-amino-4-phosphonobutyric acid	Drug	0.07415003325831432
+CDKN2B	Ribociclib	Drug	0.07427189400788983
+CDKN2B	chrysophanic acid	Drug	0.07451575742672654
+CDKN2B	phytosphingosine	Drug	0.07488190767061452
+CDKN2B	hypotaurine	Drug	0.07500405253386931
+CDKN2B	Nilotinib	Drug	0.07503655790049592
+CDKN2B	Gaboxadol	Drug	0.07549310646047545
+CDKN2B	Pristane	Drug	0.07586039569554455
+CDKN2B	Iothalamic Acid	Drug	0.07617859280648878
+CDKN2B	Gefitinib	Drug	0.07636131080017758
+CDKN2B	N(6)-cyclohexyladenosine	Drug	0.07647349619384863
+CDKN2B	Retinal	Drug	0.07675386885614503
+CDKN2B	CGP 12177	Drug	0.07684192849183587
+CDKN2B	Tetraethylammonium	Drug	0.07699813878023756
+CDKN2B	Acetylcysteine	Drug	0.07747322587368731
+CDKN2B	baicalein	Drug	0.07995763886610242
+CDKN2B	sortilin	Drug	0.0800530699611792
+CDKN2B	Zaprinast	Drug	0.08017722506547126
+CDKN2B	Osimertinib	Drug	0.08270304109884728
+CDKN2B	Diethylnitrosamine	Drug	0.08388729400506607
+CDKN2B	Therapeutic Allogeneic Lymphocytes	Drug	0.08467916161725515
+CDKN2B	Nicotine Inhaler	Drug	0.08493112594533979
+CDKN2B	2,3-dihydroxybenzoic acid	Drug	0.08518328689086312
+CDKN2B	ubiquinone 8	Drug	0.08530944115035273
+CDKN2B	sodium perchlorate	Drug	0.08581455061554377
+CDKN2B	methoctramine	Drug	0.08670039143456475
+CDKN2B	Valproic Acid	Drug	0.08690854127475205
+CDKN2B	Rutin	Drug	0.08731385367537395
+CDKN2B	Perillyl Alcohol	Drug	0.08746161239125502
+CDKN2B	Cerulenin	Drug	0.08860679320497258
+CDKN2B	Blinatumomab	Drug	0.09103766369827683
+CDKN2B	Gemcitabine	Drug	0.09205027832669242
+CDKN2B	4-bromophenacyl bromide	Drug	0.09206660372756444
+CDKN2B	Cisplatin/Gemcitabine Regimen	Drug	0.09232434236879998
+CDKN2B	Paraffin	Drug	0.09298248747497721
+CDKN2B	perchlorate	Drug	0.09323363460283494
+CDKN2B	phorbol	Drug	0.09402577111404911
+CDKN2B	blebbistatin	Drug	0.09413417395949594
+CDKN2B	Ovalbumin	Drug	0.09452440018921589
+CDKN2B	Chemoimmunotherapy	Drug	0.09454294952887535
+CDKN2B	Picrotoxin	Drug	0.09685509216755119
+CDKN2B	Entinostat	Drug	0.09739080975559088
+CDKN2B	Luteolin	Drug	0.09739241753339485
+CDKN2B	Vismodegib	Drug	0.0985710365306964
+CDKN2B	Pentachlorophenol	Drug	0.09967655201734672
+CDKN2B	nebularine	Drug	0.10027877663168924
+CDKN2B	Mazindol	Drug	0.10120874039459155
+CDKN2B	Bryostatin 1	Drug	0.10173877262773061
+CDKN2B	Etomidate	Drug	0.10200898477954308
+CDKN2B	lucifer yellow	Drug	0.10344715063260383
+CDKN2B	Ethylnitrosourea	Drug	0.10392871253036079
+CDKN2B	antibiotic G 418	Drug	0.10436744313774338
+CDKN2B	Gemtuzumab	Drug	0.10654677580465181
+CDKN2B	antigens, CD200	Drug	0.10695052696029346
+CDKN2B	Mecasermin	Drug	0.10695052696029346
+CDKN2B	Rebemadlin	Drug	0.10911194729294989
+CDKN2B	Vandetanib	Drug	0.10924748932799093
+CDKN2B	Dulanermin	Drug	0.10956835561306512
+CDKN2B	Curare	Drug	0.11182959799526553
+CDKN2B	Palifermin	Drug	0.11260376895919641
+CDKN2B	Synthetic Human Papillomavirus 16 E6 Peptide	Drug	0.11320156778599356
+CDKN2B	Monophosphoryl Lipid A	Drug	0.11439015275551909
+CDKN2B	Dihydrostreptomycin	Drug	0.11678532838635251
+CDKN2B	Triamcinolone	Drug	0.11770410418142066
+CDKN2B	fucoxanthin	Drug	0.11789546087291276
+CDKN2B	Progesterone	Drug	0.11969570126368645
+CDKN2B	methylmercuric chloride	Drug	0.12293483245066078
+CDKN2B	Eosine Yellowish-(YS)	Drug	0.12434572001686654
+CDKN2B	Gonadotropin-Releasing Hormone	Drug	0.12771681410855554
+CDKN2B	wogonin	Drug	0.12804672127174688
+CDKN2B	Sunitinib	Drug	0.12959829084318158
+CDKN2B	Nimustine	Drug	0.12962333698423814
+CDKN2B	astragaloside A	Drug	0.13135117340183705
+CDKN2B	Calcitonin Gene-Related Peptide	Drug	0.13202708674167973
+CDKN2B	Panobinostat	Drug	0.13221819361979859
+CDKN2B	5-Hydroxyindoleacetic Acid	Drug	0.13279450739208962
+CDKN2B	Aclarubicin	Drug	0.13323234103589437
+CDKN2B	Caffeic Acid Phenethyl Ester	Drug	0.13468604215686958
+CDKN2B	Salicylic Acid	Drug	0.13475748761354703
+CDKN2B	Sodium Tetradecyl Sulfate	Drug	0.1354757812047715
+CDKN2B	Indole-3-Carbinol	Drug	0.1381986867219524
+CDKN2B	Metribolone	Drug	0.14159672886173424
+CDKN2B	Proteasome Inhibitor MG-132	Drug	0.14191990684817846
+CDKN2B	Phenylethyl Alcohol	Drug	0.1423862613081252
+CDKN2B	rhein	Drug	0.1436804647598465
+CDKN2B	Therapeutic Corticosteroid	Drug	0.14540144724916784
+CDKN2B	ginsenoside Rg1	Drug	0.14547584779224973
+CDKN2B	1-hydroxypyrene	Drug	0.14637678283378844
+CDKN2B	2,4,5,2',4',5'-hexachlorobiphenyl	Drug	0.14712921975166027
+CDKN2B	Dimethyl Sulfate	Drug	0.14712921975166027
+CDKN2B	Rivoceranib	Drug	0.148336262701105
+CDKN2B	Ramucirumab	Drug	0.1493956093007015
+CDKN2B	isoxaflutole	Drug	0.15060994308098213
+CDKN2B	acteoside	Drug	0.15305035358379002
+CDKN2B	2-Amino-5-phosphonovalerate	Drug	0.15619705044242466
+CDKN2B	Hesperetin	Drug	0.15766868244272805
+CDKN2B	Puromycin Aminonucleoside	Drug	0.15922056995855743
+CDKN2B	Polychlorinated Dibenzodioxins	Drug	0.16536983128792046
+CDKN2B	Interferon beta-1b	Drug	0.16564919494990316
+CDKN2B	Streptavidin	Drug	0.1656786780810646
+CDKN2B	Glutamine	Drug	0.16673699853794674
+CDKN2B	Thiopental	Drug	0.16695341956595341
+CDKN2B	icariin	Drug	0.1675509831880523
+CDKN2B	Catechin	Drug	0.1695830427985215
+CDKN2B	N-Acetylaspartate	Drug	0.17021759573950143
+CDKN2B	Thymidine	Drug	0.17057839522632598
+CDKN2B	oleuropein	Drug	0.17347334934374228
+CDKN2B	Omega-3 Fatty Acid	Drug	0.1737932143220895
+CDKN2B	Dasatinib	Drug	0.1745318676238113
+CDKN2B	Oxidopamine	Drug	0.17659490090815658
+CDKN2B	Chymosin	Drug	0.17899447113143593
+CDKN2B	methyl bromide	Drug	0.17948530181023542
+CDKN2B	Safingol	Drug	0.18079711628949713
+CDKN2B	Heparin	Drug	0.18130642535517175
+CDKN2B	Methylnitronitrosoguanidine	Drug	0.18161692575775634
+CDKN2B	Dextrans	Drug	0.18243419407002126
+CDKN2B	Chrysene	Drug	0.18608732408111855
+CDKN2B	N-methyladenosine	Drug	0.18728356734990206
+CDKN2B	Phosphatidylinositide 3-Kinase Inhibitor	Drug	0.18752989225794744
+CDKN2B	Iodine I-125	Drug	0.1875876735933643
+CDKN2B	Dimethylnitrosamine	Drug	0.1882701650711394
+CDKN2B	1,2-diamino-1,2-N,N'-carbonyl-1,2-dideoxyglucose hydrate	Drug	0.1897646003775535
+CDKN2B	Paraquat	Drug	0.19069465462368868
+CDKN2B	Fasudil	Drug	0.19077324169205268
+CDKN2B	1-aminocyclopropane-1-carboxylic acid	Drug	0.1916156677694201
+CDKN2B	1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine	Drug	0.1925294801755647
+CDKN2B	Axitinib	Drug	0.1929671373091128
+CDKN2B	Alprenolol	Drug	0.19330569631549677
+CDKN2B	Biguanide Antidiabetic Agent	Drug	0.19432303748054977
+CDKN2B	Tyrphostin AG 1478	Drug	0.19534288046604412
+CDKN2B	Somatostatin	Drug	0.19544715508393717
+CDKN2B	cresyl violet	Drug	0.1955130980362946
+CDKN2B	oil red O	Drug	0.19565445522107702
+CDKN2B	ketene	Drug	0.19653586894288508
+CDKN2B	Attenuated Live Vaccine	Drug	0.19739010081459343
+CDKN2B	Certolizumab	Drug	0.1982460851608419
+CDKN2B	glutamate receptor ionotropic, AMPA 2	Drug	0.2006522004812849
+CDKN2B	Ethanol	Drug	0.20233558163022677
+CDKN2B	Cabozantinib	Drug	0.20237933805464922
+CDKN2B	Teniposide	Drug	0.20251855358408566
+CDKN2B	Recombinant Amphiregulin	Drug	0.20272561749725868
+CDKN2B	Arecoline	Drug	0.20307218155572238
+CDKN2B	Deferiprone	Drug	0.203245570401783
+CDKN2B	Dizocilpine	Drug	0.206848446267528
+CDKN2B	Deoxycytidine	Drug	0.20899028614444887
+CDKN2B	Gliclazide	Drug	0.20935931881659844
+CDKN2B	epicatechin gallate	Drug	0.20975553178061285
+CDKN2B	p-Dimethylaminoazobenzene	Drug	0.21034612469889663
+CDKN2B	Tissue Plasminogen Activator	Drug	0.2106880737359933
+CDKN2B	4-Phenylbutyric Acid	Drug	0.2132475927648623
+CDKN2B	Carbendazim	Drug	0.21449218778888499
+CDKN2B	Glimepiride	Drug	0.21467028079237827
+CDKN2B	Recombinant Interferon Alfa-2b	Drug	0.21502668744197376
+CDKN2B	3-methylquercetin	Drug	0.21556184955917584
+CDKN2B	PD 123319	Drug	0.21609767510693362
+CDKN2B	Recombinant Fractalkine	Drug	0.21770914202335495
+CDKN2B	O-(6)-methylguanine	Drug	0.22276112114627458
+CDKN2B	manganese dioxide	Drug	0.22294263408925188
+CDKN2B	Phenelzine	Drug	0.22312422223328224
+CDKN2B	Melanocyte-Stimulating Hormones	Drug	0.2242578828427793
+CDKN2B	Isoleucine	Drug	0.2258405369136824
+CDKN2B	alachlor	Drug	0.2264503571620102
+CDKN2B	ERK Inhibitor	Drug	0.22842315653391823
+CDKN2B	Norepinephrine Reuptake Inhibitor	Drug	0.22879095556349674
+CDKN2B	Hymecromone	Drug	0.23100417668073997
+CDKN2B	Human Growth Hormone	Drug	0.23284560257822556
+CDKN2B	Staurosporine	Drug	0.23307175462157081
+CDKN2B	Chondroitin	Drug	0.23337802726300896
+CDKN2B	Oleanolic Acid	Drug	0.23338978176700692
+CDKN2B	Zanamivir	Drug	0.233600256868513
+CDKN2B	Betulinic Acid	Drug	0.23527716641209573
+CDKN2B	Temozolomide	Drug	0.23612670379321585
+CDKN2B	Taurine	Drug	0.23991016215950345
+CDKN2B	Diphenylamine	Drug	0.24034577318542774
+CDKN2B	Carbenoxolone	Drug	0.24432767300245556
+CDKN2B	Cyclic AMP	Drug	0.24645538305149
+CDKN2B	Urea	Drug	0.24715868826105783
+CDKN2B	Methylcholanthrene	Drug	0.24891780455309806
+CDKN2B	Cloprostenol	Drug	0.24911381149264156
+CDKN2B	Propidium Iodide	Drug	0.24981438084404198
+CDKN2B	puerarin	Drug	0.2508491139885733
+CDKN2B	Durapatite	Drug	0.2520792319460067
+CDKN2B	Becaplermin	Drug	0.2523222474449761
+CDKN2B	Regorafenib	Drug	0.25550870943496584
+CDKN2B	Tissue Inhibitor of Metalloproteinase-2	Drug	0.2573853338302521
+CDKN2B	Serum Albumin, Human	Drug	0.2612777068442594
+CDKN2B	Alitretinoin	Drug	0.26159724164973963
+CDKN2B	Zinc Protoporphyrin	Drug	0.2633797936323803
+CDKN2B	Folitixorin	Drug	0.2635229481493742
+CDKN2B	Saffron	Drug	0.26477089902872036
+CDKN2B	Selenious Acid	Drug	0.266869559606684
+CDKN2B	Myristic Acid	Drug	0.2672671922337263
+CDKN2B	Infliximab	Drug	0.27380359902270623
+CDKN2B	Romidepsin	Drug	0.2744213107888815
+CDKN2B	Ascorbic Acid	Drug	0.27880596819814274
+CDKN2B	Apigenin	Drug	0.2799900699627368
+CDKN2B	Phenylalanine	Drug	0.2813099811704638
+CDKN2B	Cannabidiol	Drug	0.2815615034081142
+CDKN2B	beta-Naphthoflavone	Drug	0.28364814634981583
+CDKN2B	lard	Drug	0.28447685697242825
+CDKN2B	Phenanthrene	Drug	0.28531121231766504
+CDKN2B	Glycerol	Drug	0.2871831088711413
+CDKN2B	Potassium Dichromate	Drug	0.28968830982921584
+CDKN2B	3-(2-carboxypiperazin-4-yl)propyl-1-phosphonic acid	Drug	0.290443750039062
+CDKN2B	Amifostine	Drug	0.29432043683287473
+CDKN2B	Prednisolone	Drug	0.2956861905357054
+CDKN2B	EPINEPHRINE	Drug	0.2958385209385138
+CDKN2B	Estradiol	Drug	0.29899992002934683
+CDKN2B	Human C1-Esterase Inhibitor	Drug	0.30414729974743
+CDKN2B	Adenosine Triphosphate	Drug	0.3058619594232284
+CDKN2B	Epigallocatechin	Drug	0.3082629188065376
+CDKN2B	Sodium Iodide	Drug	0.30869809201060655
+CDKN2B	Manganese Chloride	Drug	0.30869809201060655
+CDKN2B	Iodide	Drug	0.30972919363785817
+CDKN2B	gastric inhibitory polypeptide receptor	Drug	0.3124121588728987
+CDKN2B	DAPI	Drug	0.3146878670343797
+CDKN2B	Amitrole	Drug	0.3155958278583579
+CDKN2B	3-Nitrotyrosine	Drug	0.31577767921750505
+CDKN2B	Anisomycin	Drug	0.3179234601016647
+CDKN2B	galacturonic acid	Drug	0.3196996129363878
+CDKN2B	ERGOCALCIFEROL	Drug	0.33042372669702774
+CDKN2B	Penicillin G	Drug	0.3326651479903807
+CDKN2B	Plerixafor	Drug	0.3361929379583848
+CDKN2B	Phenylmethylsulfonyl Fluoride	Drug	0.3366521671800034
+CDKN2B	Caffeic Acid	Drug	0.3426982300367528
+CDKN2B	CMW cement	Drug	0.34638846196387163
+CDKN2B	Recombinant Interleukin-1-alpha	Drug	0.34867510979800453
+CDKN2B	Lenvatinib	Drug	0.3515596954043478
+CDKN2B	safranine T	Drug	0.35203226500602475
+CDKN2B	Levomefolic Acid	Drug	0.35321548993119734
+CDKN2B	Glycosaminoglycan	Drug	0.35453710494339213
+CDKN2B	Gallocatechin	Drug	0.35678066019855736
+CDKN2B	N-(2-cyclohexyloxy-4-nitrophenyl)methanesulfonamide	Drug	0.3577353141737853
+CDKN2B	Hexamethonium	Drug	0.36082120410566404
+CDKN2B	Tumor Necrosis Factor Ligand Superfamily Member 10	Drug	0.36209312472715116
+CDKN2B	Dexamethasone	Drug	0.36473875230020664
+CDKN2B	Propofol	Drug	0.3657471660190613
+CDKN2B	cyanoginosin LR	Drug	0.36616000319835823
+CDKN2B	Adenosine Diphosphate	Drug	0.36657897462796374
+CDKN2B	Fluorodeoxyglucose F18	Drug	0.3673353201351619
+CDKN2B	Nordic Regimen	Drug	0.368347259006993
+CDKN2B	D-Aspartic Acid	Drug	0.37029873195183394
+CDKN2B	Biliverdine	Drug	0.3742222541743645
+CDKN2B	alpha-Methyltyrosine	Drug	0.37520744249709653
+CDKN2B	Vanillic Acid	Drug	0.3779256434753618
+CDKN2B	tanshinone	Drug	0.3784212736709866
+CDKN2B	Caffeine	Drug	0.3805805778262944
+CDKN2B	n-hexadecane	Drug	0.3809059671373265
+CDKN2B	Daunorubicin	Drug	0.38727939706799436
+CDKN2B	Doxycycline	Drug	0.3911018115487167
+CDKN2B	Alfentanil	Drug	0.39120828093663107
+CDKN2B	Tributyrin	Drug	0.3926028946530654
+CDKN2B	Prolinedithiocarbamate	Drug	0.39527947989281487
+CDKN2B	Cholesterol	Drug	0.39711904710618917
+CDKN2B	lead acetate	Drug	0.3973258937265552
+CDKN2B	Irinotecan	Drug	0.40161952543243734
+CDKN2B	Adezmapimod	Drug	0.40192446202369353
+CDKN2B	Valspodar	Drug	0.40195688119047457
+CDKN2B	Buserelin	Drug	0.40975772030125573
+CDKN2B	Angiostatin	Drug	0.41317046871269353
+CDKN2B	Therapeutic Hemin	Drug	0.41325774108902874
+CDKN2B	baicalin	Drug	0.4160736206883511
+CDKN2B	musk	Drug	0.4176631562072712
+CDKN2B	Brefeldin A	Drug	0.4251374219773038
+CDKN2B	Phloroglucinol	Drug	0.4280993764595118
+CDKN2B	Troglitazone	Drug	0.4359783323646718
+CDKN2B	Olaparib	Drug	0.4359783323646718
+CDKN2B	chelerythrine	Drug	0.43926862921645593
+CDKN2B	Oxotremorine	Drug	0.4398187348124243
+CDKN2B	R-CHOP Regimen	Drug	0.44036933405095874
+CDKN2B	Chloralose	Drug	0.4414720155890773
+CDKN2B	Ficusin	Drug	0.4431297535672185
+CDKN2B	Desflurane	Drug	0.44368332588196446
+CDKN2B	Pentobarbital	Drug	0.4447562091132011
+CDKN2B	Recombinant Parathyroid Hormone-Related Protein	Drug	0.45008529313612905
+CDKN2B	Thiouracil	Drug	0.45570633169412744
+CDKN2B	Creatine	Drug	0.4566539590973886
+CDKN2B	Methane	Drug	0.4569005247890175
+CDKN2B	Pregnant Mare Serum Gonadotropin	Drug	0.4599554912875167
+CDKN2B	Colforsin	Drug	0.46225076743823534
+CDKN2B	Paraoxon	Drug	0.4625188306523142
+CDKN2B	p-Chloroamphetamine	Drug	0.46447666852887026
+CDKN2B	Intrinsic Factor	Drug	0.465665990760772
+CDKN2B	Recombinant Human Endostatin	Drug	0.4673892335805205
+CDKN2B	protocatechuic acid	Drug	0.468540664208536
+CDKN2B	Zolpidem	Drug	0.4769512351021424
+CDKN2B	Sulforaphane	Drug	0.4822275341864858
+CDKN2B	Venetoclax	Drug	0.4854732586791711
+CDKN2B	fluoranthene	Drug	0.49022342281470604
+CDKN2B	rhodamine 6G	Drug	0.4956089389326522
+CDKN2B	Recombinant Tumor Necrosis Factor-Alpha	Drug	0.497707990869912
+CDKN2B	Lomustine	Drug	0.5022516452897157
+CDKN2B	Hepatitis B Vaccine	Drug	0.5064840093161279
+CDKN2B	Carbon Tetrachloride	Drug	0.507828139663209
+CDKN2B	Phlorhizin	Drug	0.5108033156372991
+CDKN2B	Thioacetamide	Drug	0.5188932505192706
+CDKN2B	Flavonoid	Drug	0.5197609176002677
+CDKN2B	Ethylene	Drug	0.5342097371145222
+CDKN2B	Chloramphenicol	Drug	0.5394403998519076
+CDKN2B	Wortmannin	Drug	0.5447536336373953
+CDKN2B	Leridistim	Drug	0.5466734966803476
+CDKN2B	Uridine Monophosphate	Drug	0.5484027221401266
+CDKN2B	Everolimus	Drug	0.5519389237904454
+CDKN2B	Coal Tar	Drug	0.5555834973849378
+CDKN2B	Ammonium Carbamate	Drug	0.5655079647200557
+CDKN2B	Calcitonin	Drug	0.5696020182193218
+CDKN2B	Dihydrotestosterone	Drug	0.569895280928406
+CDKN2B	Recombinant Interleukin-1-beta	Drug	0.5768860748619568
+CDKN2B	Recombinant Interleukin	Drug	0.5781422915768643
+CDKN2B	Eflornithine	Drug	0.5789273340889894
+CDKN2B	Paclitaxel	Drug	0.5798461041675242
+CDKN2B	Lidocaine	Drug	0.5815954484472787
+CDKN2B	Palmitic Acid	Drug	0.5837329402923316
+CDKN2B	5,5',6,6'-tetrachloro-1,1',3,3'-tetraethylbenzimidazolocarbocyanine	Drug	0.5857385736857671
+CDKN2B	Polyunsaturated Fatty Acid	Drug	0.5989291548690275
+CDKN2B	Pyrrolidonecarboxylic Acid	Drug	0.6043700388397008
+CDKN2B	Emodin	Drug	0.6044519097153357
+CDKN2B	Aflatoxin B1	Drug	0.6083898482804596
+CDKN2B	Polyethylene Glycols	Drug	0.6111221361916369
+CDKN2B	Biotin	Drug	0.6122830547036245
+CDKN2B	Lithium Chloride	Drug	0.6125682241949074
+CDKN2B	Potassium Cation	Drug	0.6182666553407008
+CDKN2B	Bumetanide	Drug	0.6196980236794638
+CDKN2B	Norepinephrine	Drug	0.6290741621756605
+CDKN2B	Crizotinib	Drug	0.6312473017212089
+CDKN2B	Therapeutic Testosterone	Drug	0.6337939296418658
+CDKN2B	Glutathione Disulfide	Drug	0.6377827908175577
+CDKN2B	Epigallocatechin Gallate	Drug	0.6396994880477908
+CDKN2B	3-Hydroxybutyric Acid	Drug	0.6421473719769273
+CDKN2B	Pembrolizumab	Drug	0.646718701567359
+CDKN2B	Arginine Vasopressin	Drug	0.6511275431125597
+CDKN2B	Maltodextrin	Drug	0.6533822048323218
+CDKN2B	Hesperidin	Drug	0.6563817540565543
+CDKN2B	Altretamine	Drug	0.6590158047652875
+CDKN2B	Iboctadekin	Drug	0.6653327301091592
+CDKN2B	Lactic Acid	Drug	0.6669804017543257
+CDKN2B	Cholecalciferol	Drug	0.6859727362592112
+CDKN2B	Fluorides	Drug	0.6924146157308795
+CDKN2B	Leukotriene B4	Drug	0.6948717878160959
+CDKN2B	Vitamin B 12	Drug	0.7009034171497814
+CDKN2B	4-hydroxybenzoic acid	Drug	0.7011971429555937
+CDKN2B	Alpha-1-proteinase inhibitor	Drug	0.7041394875109465
+CDKN2B	Isoflavone	Drug	0.7063651147088136
+CDKN2B	Nicotine	Drug	0.7105998257380783
+CDKN2B	bisbenzimide ethoxide trihydrochloride	Drug	0.7107871894002483
+CDKN2B	Lithium Carbonate	Drug	0.7154889617629997
+CDKN2B	Calcineurin Inhibitor	Drug	0.7266118033986358
+CDKN2B	Adenosine	Drug	0.726975073285544
+CDKN2B	LIPASE	Drug	0.7317874770722871
+CDKN2B	Hydrogen Peroxide	Drug	0.7366715535130219
+CDKN2B	Lauric Acid	Drug	0.7394070147719252
+CDKN2B	Therapeutic Melatonin	Drug	0.7448971297566441
+CDKN2B	Pyruvic Acid	Drug	0.7507682362484924
+CDKN2B	Trivalent Live-Attenuated Influenza Vaccine	Drug	0.7785476404643072
+CDKN2B	Nitrous Oxide	Drug	0.7837851870213337
+CDKN2B	Ethylmaleimide	Drug	0.7856439963229614
+CDKN2B	Propranolol	Drug	0.7969812014370821
+CDKN2B	Proline	Drug	0.7974133038359799
+CDKN2B	Methotrexate	Drug	0.7982191910382407
+CDKN2B	Acetaminophen	Drug	0.7995920246851267
+CDKN2B	Streptozocin	Drug	0.8002515714860373
+CDKN2B	Deoxycholic Acid	Drug	0.800699002620083
+CDKN2B	Arachidonic Acid	Drug	0.8029223984426149
+CDKN2B	Sufentanil	Drug	0.8063951743699501
+CDKN2B	Cidofovir	Drug	0.8081929417087834
+CDKN2B	Flunitrazepam	Drug	0.8090931709667298
+CDKN2B	Therapeutic Insulin	Drug	0.812216257168987
+CDKN2B	Rituximab	Drug	0.8143376613089027
+CDKN2B	Selenocysteine	Drug	0.8164740890814725
+CDKN2B	Interleukin-4	Drug	0.8242644741732679
+CDKN2B	Y 27632	Drug	0.8254520186792951
+CDKN2B	Diethylstilbestrol	Drug	0.8370447475654321
+CDKN2B	Fluorescein	Drug	0.8514442445081688
+CDKN2B	Tetracycline	Drug	0.8543725090525653
+CDKN2B	Polyethylene Glycol	Drug	0.8564967060850964
+CDKN2B	Serum Albumin, Bovine	Drug	0.859591239713887
+CDKN2B	Calcium Gluconate	Drug	0.8691063829384401
+CDKN2B	Uridine Diphosphate Glucose	Drug	0.8919611418855081
+CDKN2B	Phosphates	Drug	0.8930581894882398
+CDKN2B	Guaiacol	Drug	0.8993709289562251
+CDKN2B	paraform	Drug	0.9078374994660879
+CDKN2B	Prothrombin	Drug	0.9085033377586511
+CDKN2B	Pentostatin	Drug	0.9113451593968082
+CDKN2B	Deltamethrin	Drug	0.912852289841732
+CDKN2B	Growth Hormone	Drug	0.9181786622585779
+CDKN2B	Deferoxamine	Drug	0.9228327571229252
+CDKN2B	Fibrin	Drug	0.9302618010793215
+CDKN2B	Nicotine Replacement Agent	Drug	0.9476434082851309
+CDKN2B	Xylene	Drug	0.9512944355301542
+CDKN2B	Triiodothyronine	Drug	0.9517354336491578
+CDKN2B	Tenivastatin	Drug	0.9668556704668603
+CDKN2B	Aluminum Hydroxide	Drug	0.9777611062750179
+CDKN2B	Gramicidin	Drug	0.9825984032864831
+CDKN2B	Daidzein	Drug	0.9923411929460586
+CDKN2B	Tacrolimus	Drug	0.998201046965719
+CDKN2B	Dihydroxyphenylalanine	Drug	1
+CDKN2B	Polychlorinated Biphenyls	Drug	1
+CDKN2B	Polymethyl Methacrylate	Drug	1
+CDKN2B	Cetuximab	Drug	1
+CDKN2B	UROKINASE	Drug	1
+CDKN2B	Sargramostim	Drug	1
+CDKN2B	Thyrotropin-Releasing Hormone	Drug	1
+CDKN2B	Interleukin 1 Receptor Antagonist Protein	Drug	1
+CDKN2B	Glucagon	Drug	1
+CDKN2B	Aldesleukin	Drug	1
+CDKN2B	Collagenase	Drug	1
+CDKN2B	Trastuzumab	Drug	1
+CDKN2B	Botulinum Toxins, Type A	Drug	1
+CDKN2B	Cyclosporine	Drug	1
+CDKN2B	Filgrastim	Drug	1
+CDKN2B	Oxytocin	Drug	1
+CDKN2B	Spermine	Drug	1
+CDKN2B	Aspartic Acid	Drug	1
+CDKN2B	Ornithine	Drug	1
+CDKN2B	Adenosine Monophosphate	Drug	1
+CDKN2B	Calcitriol	Drug	1
+CDKN2B	Flavin Mononucleotide	Drug	1
+CDKN2B	Acetylglucosamine	Drug	1
+CDKN2B	Glutathione	Drug	1
+CDKN2B	Cysteine	Drug	1
+CDKN2B	Thiamine	Drug	1
+CDKN2B	NAD	Drug	1
+CDKN2B	Folic Acid	Drug	1
+CDKN2B	Eicosapentaenoic Acid	Drug	1
+CDKN2B	Bortezomib	Drug	1
+CDKN2B	Oseltamivir	Drug	1
+CDKN2B	Citalopram	Drug	1
+CDKN2B	Lovastatin	Drug	1
+CDKN2B	Cladribine	Drug	1
+CDKN2B	Topiramate	Drug	1
+CDKN2B	Bleomycin	Drug	1
+CDKN2B	Chlorambucil	Drug	1
+CDKN2B	Morphine	Drug	1
+CDKN2B	Mitomycin	Drug	1
+CDKN2B	Metformin	Drug	1
+CDKN2B	Diltiazem	Drug	1
+CDKN2B	Vinorelbine	Drug	1
+CDKN2B	Amlodipine	Drug	1
+CDKN2B	Phenylephrine	Drug	1
+CDKN2B	Sorafenib	Drug	1
+CDKN2B	Rosiglitazone	Drug	1
+CDKN2B	Hexachlorocyclohexane	Drug	1
+CDKN2B	Nitric Oxide	Drug	1
+CDKN2B	Dronabinol	Drug	1
+CDKN2B	Fluoxetine	Drug	1
+CDKN2B	Amikacin	Drug	1
+CDKN2B	Lenalidomide	Drug	1
+CDKN2B	Celecoxib	Drug	1
+CDKN2B	Cimetidine	Drug	1
+CDKN2B	Cisplatin	Drug	1
+CDKN2B	Oxaliplatin	Drug	1
+CDKN2B	Cyclophosphamide	Drug	1
+CDKN2B	Guanidine	Drug	1
+CDKN2B	Vincristine	Drug	1
+CDKN2B	Fluorouracil	Drug	1
+CDKN2B	Atropine	Drug	1
+CDKN2B	Piperazine	Drug	1
+CDKN2B	Medroxyprogesterone	Drug	1
+CDKN2B	Inulin	Drug	1
+CDKN2B	Pemetrexed	Drug	1
+CDKN2B	Verapamil	Drug	1
+CDKN2B	Pirenzepine	Drug	1
+CDKN2B	Tamoxifen	Drug	1
+CDKN2B	Isoflurophate	Drug	1
+CDKN2B	Midazolam	Drug	1
+CDKN2B	Therapeutic Hydrocortisone	Drug	1
+CDKN2B	Mannitol	Drug	1
+CDKN2B	Potassium Chloride	Drug	1
+CDKN2B	Etoposide	Drug	1
+CDKN2B	Gadopentetate	Drug	1
+CDKN2B	Ribavirin	Drug	1
+CDKN2B	Fentanyl	Drug	1
+CDKN2B	Disulfiram	Drug	1
+CDKN2B	Diazepam	Drug	1
+CDKN2B	Dacarbazine	Drug	1
+CDKN2B	Chlorhexidine	Drug	1
+CDKN2B	Remifentanil	Drug	1
+CDKN2B	Didanosine	Drug	1
+CDKN2B	Ethacrynic Acid	Drug	1
+CDKN2B	Cocaine	Drug	1
+CDKN2B	Fulvestrant	Drug	1
+CDKN2B	Carboplatin	Drug	1
+CDKN2B	Ethiodized Oil	Drug	1
+CDKN2B	Dactinomycin	Drug	1
+CDKN2B	Edetic Acid	Drug	1
+CDKN2B	Ethinyl Estradiol	Drug	1
+CDKN2B	Physostigmine	Drug	1
+CDKN2B	Azathioprine	Drug	1
+CDKN2B	Neomycin	Drug	1
+CDKN2B	Doxorubicin	Drug	1
+CDKN2B	Hydrochlorothiazide	Drug	1
+CDKN2B	Ganciclovir	Drug	1
+CDKN2B	Hydroxyurea	Drug	1
+CDKN2B	Busulfan	Drug	1
+CDKN2B	Glyburide	Drug	1
+CDKN2B	Minocycline	Drug	1
+CDKN2B	Mycophenolic Acid	Drug	1
+CDKN2B	Ketoconazole	Drug	1
+CDKN2B	Topotecan	Drug	1
+CDKN2B	Mercaptopurine	Drug	1
+CDKN2B	Thalidomide	Drug	1
+CDKN2B	Isoproterenol	Drug	1
+CDKN2B	Clonazepam	Drug	1
+CDKN2B	4-Aminobenzoic Acid	Drug	1
+CDKN2B	Dimethyl Sulfoxide	Drug	1
+CDKN2B	Capecitabine	Drug	1
+CDKN2B	Cefuroxime	Drug	1
+CDKN2B	Nifedipine	Drug	1
+CDKN2B	Halothane	Drug	1
+CDKN2B	Phenobarbital	Drug	1
+CDKN2B	Captopril	Drug	1
+CDKN2B	Levetiracetam	Drug	1
+CDKN2B	Levodopa	Drug	1
+CDKN2B	Exenatide	Drug	1
+CDKN2B	Corticotropin	Drug	1
+CDKN2B	Ephedrine	Drug	1
+CDKN2B	Bicarbonates	Drug	1
+CDKN2B	Danazol	Drug	1
+CDKN2B	N-Methyl-3,4-methylenedioxyamphetamine	Drug	1
+CDKN2B	3,4-Methylenedioxyamphetamine	Drug	1
+CDKN2B	Thyroglobulin	Drug	1
+CDKN2B	Camphor	Drug	1
+CDKN2B	Propylene Glycol	Drug	1
+CDKN2B	Ethylene Glycol	Drug	1
+CDKN2B	Glucose	Drug	1
+CDKN2B	Putrescine	Drug	1
+CDKN2B	Prostaglandin D2	Drug	1
+CDKN2B	Okadaic Acid	Drug	1
+CDKN2B	Deoxyguanosine	Drug	1
+CDKN2B	Deoxyuridine	Drug	1
+CDKN2B	Ditiocarb	Drug	1
+CDKN2B	Resveratrol	Drug	1
+CDKN2B	Phosphonoacetic Acid	Drug	1
+CDKN2B	benzimidazole	Drug	1
+CDKN2B	Malondialdehyde	Drug	1
+CDKN2B	Inositol	Drug	1
+CDKN2B	Acetic Acid	Drug	1
+CDKN2B	Arabinose	Drug	1
+CDKN2B	imidazole	Drug	1
+CDKN2B	Uracil	Drug	1
+CDKN2B	Thymine	Drug	1
+CDKN2B	Mevalonic Acid	Drug	1
+CDKN2B	Spermidine	Drug	1
+CDKN2B	Phencyclidine	Drug	1
+CDKN2B	Formaldehyde	Drug	1
+CDKN2B	Oxalic Acid	Drug	1
+CDKN2B	Uridine Triphosphate	Drug	1
+CDKN2B	3-methyladenine	Drug	1
+CDKN2B	Quercetin	Drug	1
+CDKN2B	Nitroarginine	Drug	1
+CDKN2B	Taurocholic Acid	Drug	1
+CDKN2B	Homocysteine	Drug	1
+CDKN2B	Cycloleucine	Drug	1
+CDKN2B	Octoxynol	Drug	1
+CDKN2B	Camptothecin	Drug	1
+CDKN2B	Permethrin	Drug	1
+CDKN2B	Silver Sulfadiazine	Drug	1
+CDKN2B	Gallium Nitrate	Drug	1
+CDKN2B	Alloxan	Drug	1
+CDKN2B	Eugenol	Drug	1
+CDKN2B	Squalene	Drug	1
+CDKN2B	Ozone	Drug	1
+CDKN2B	Hydrogen Sulfide	Drug	1
+CDKN2B	Tyramine	Drug	1
+CDKN2B	Cycloheximide	Drug	1
+CDKN2B	Ethane	Drug	1
+CDKN2B	Calcium Sulfate	Drug	1
+CDKN2B	Trichloroacetic Acid	Drug	1
+CDKN2B	Styrene	Drug	1
+CDKN2B	Methylene Chloride	Drug	1
+CDKN2B	Perchloric Acid	Drug	1
+CDKN2B	Freund's Adjuvant	Drug	1
+CDKN2B	Carrageenan	Drug	1
+CDKN2B	Polyvinyl Alcohol	Drug	1
+CDKN2B	cesium chloride	Drug	1
+CDKN2B	Homovanillic Acid	Drug	1
+CDKN2B	Growth Hormone-Releasing Hormone	Drug	1
+CDKN2B	Trifluoroacetic Acid	Drug	1
+CDKN2B	Tolonium Chloride	Drug	1
+CDKN2B	Dichlorodiphenyl Dichloroethylene	Drug	1
+CDKN2B	Bucladesine	Drug	1
+CDKN2B	Polyglycolic Acid	Drug	1
+CDKN2B	metaperiodate	Drug	1
+CDKN2B	pyridine	Drug	1
+CDKN2B	Spiperone	Drug	1
+CDKN2B	Alcian Blue	Drug	1
+CDKN2B	Cotinine	Drug	1
+CDKN2B	1,2-Dipalmitoylphosphatidylcholine	Drug	1
+CDKN2B	Tunicamycin	Drug	1
+CDKN2B	Acrylamide	Drug	1
+CDKN2B	Fluorescein-5-isothiocyanate	Drug	1
+CDKN2B	polyacrylamide	Drug	1
+CDKN2B	hydroxide ion	Drug	1
+CDKN2B	thiazolyl blue	Drug	1
+CDKN2B	1-phenyl-3,3-dimethyltriazene	Drug	1
+CDKN2B	diphenyl	Drug	1
+CDKN2B	bipiperidyl mustard	Drug	1
+CDKN2B	mica	Drug	1
+CDKN2B	Alginic Acid	Drug	1
+CDKN2B	8-Hydroxy-2-(di-n-propylamino)tetralin	Drug	1
+CDKN2B	Fura-2	Drug	1
+CDKN2B	NG-Nitroarginine Methyl Ester	Drug	1
+CDKN2B	3-hydroxybutanal	Drug	1
+CDKN2B	Denosumab	Drug	1
+CDKN2B	Potassium Iodide	Drug	1
+CDKN2B	Calcium Carbonate	Drug	1
+CDKN2B	indoleacetic acid	Drug	1
+CDKN2B	N-(2-(4-bromocinnamylamino)ethyl)-5-isoquinolinesulfonamide	Drug	1
+CDKN2B	1-(5-Isoquinolinesulfonyl)-2-Methylpiperazine	Drug	1
+CDKN2B	Puromycin	Drug	1
+CDKN2B	Rubber	Drug	1
+CDKN2B	Thrombin	Drug	1
+CDKN2B	Muramidase	Drug	1
+CDKN2B	Kallikreins	Drug	1
+CDKN2B	Papain	Drug	1
+CDKN2B	Agar	Drug	1
+CDKN2B	Alginates	Drug	1
+CDKN2B	Mineral Oil	Drug	1
+CDKN2B	Bradykinin	Drug	1
+CDKN2B	Plasminogen	Drug	1
+CDKN2B	Botulinum Toxins	Drug	1
+CDKN2B	Polysorbates	Drug	1
+CDKN2B	Benzodiazepines	Drug	1
+CDKN2B	Polylactic Acid-Polyglycolic Acid Copolymer	Drug	1
+CDKN2B	alpha-Amylases	Drug	1
+CDKN2B	N-Acetylneuraminic Acid	Drug	1
+CDKN2B	Hyaluronic Acid	Drug	1
+CDKN2B	Lipopolysaccharide	Drug	1
+CDKN2B	Penclomedine	Drug	1
+CDKN2B	Interleukin-12	Drug	1
+CDKN2B	Iodine I-131	Drug	1
+CDKN2B	Soy Protein Isolate	Drug	1
+CDKN2B	Adenovirus Vector	Drug	1
+CDKN2B	Recombinant Tumor Necrosis Factor Family Protein	Drug	1
+CDKN2B	Monoclonal Antibody L6	Drug	1
+CDKN2B	Uridine Triacetate	Drug	1
+CDKN2B	Recombinant 70-kD Heat-Shock Protein	Drug	1
+CDKN2B	Therapeutic Tumor Infiltrating Lymphocytes	Drug	1
+CDKN2B	Ferrous Sulfate	Drug	1
+CDKN2B	Magnesium Hydroxide	Drug	1
+CDKN2B	Ceramide	Drug	1
+CDKN2B	Curcumin	Drug	1
+CDKN2B	Conjugated Linoleic Acid	Drug	1
+CDKN2B	Arginine/Omega-3 Fatty Acids/Nucleotides Oral Supplement	Drug	1
+CDKN2B	F-18 16 Alpha-Fluoroestradiol	Drug	1
+CDKN2B	EPOCH Regimen	Drug	1
+CDKN2B	Nutritional Supplement Drink	Drug	1
+CDKN2B	Poly I-C	Drug	1
+CDKN2B	Tetrodotoxin	Drug	1
+CDKN2B	Coenzyme Q10	Drug	1
+CDKN2B	Dichloromethotrexate	Drug	1
+CDKN2B	Recombinant Parathyroid Hormone	Drug	1
+CDKN2B	Interferon-gamma	Drug	1
+CDKN2B	Ethidium	Drug	1
+CDKN2B	Inosine	Drug	1
+CDKN2B	Fibrinolysin	Drug	1
+CDKN2B	Deoxyglucose	Drug	1
+CDKN2B	Galactose	Drug	1
+CDKN2B	Aluminum Sulfate	Drug	1
+CDKN2B	Human Immunoglobulin G	Drug	1
+CDKN2B	Poloxamer	Drug	1
+CDKN2B	17-alpha-Hydroxyprogesterone	Drug	1
+CDKN2B	Antithrombin III	Drug	1
+CDKN2B	Carbon Monoxide	Drug	1
+CDKN2B	Niacinamide	Drug	1
+CDKN2B	Chymotrypsin	Drug	1
+CDKN2B	Luteinizing Hormone	Drug	1
+CDKN2B	FOLLITROPIN ALFA/BETA	Drug	1
+CDKN2B	PYRETHRINS	Drug	1
+CDKN2B	Polytetrafluoroethylene	Drug	1
+CDKN2B	Carbon Nanoparticle-based Formulation	Drug	1
+CDKN2B	Chlorogenic Acid	Drug	1
+CDKN2B	Carbachol	Drug	1
+CDKN2B	Vitamin E	Drug	1
+CDKN2B	Acetyl Coenzyme A	Drug	1
+CDKN2B	Anthracene	Drug	1
+CDKN2B	Oral Contraceptive	Drug	1
+CDKN2B	Heparan Sulfate	Drug	1
+CDKN2B	Protoporphyrin IX	Drug	1
+CDKN2B	8-Hydroxy-2'-deoxyguanosine	Drug	1
+CDKN2B	Recombinant Fas Ligand	Drug	1
+CDKN2B	BOLD Regimen	Drug	1
+CDKN2B	Anthraquinone	Drug	1
+CDKN2B	Nitric Oxide Synthase Inhibitor	Drug	1
+CDKN2B	Naphthalene	Drug	1
+CDKN2B	DNA Vaccine	Drug	1
+CDKN2B	Furan	Drug	1
+CDKN2B	Sodium Sulfate	Drug	1
+CDKN2B	Beta-D-Glucopyranose	Drug	1
+CDKN2B	Methacholine	Drug	1
+CDKN2B	Erlotinib	Drug	1
+CDKN2B	Dopamine Agonist	Drug	1
+CDKN2B	Mn2+	Drug	1
+CDKN2B	Kaempferol	Drug	1
+CDKN2B	Flavone	Drug	1
+CDKN2B	Casein	Drug	1
+CDKN2B	Ammonium Lauryl Sulfate	Drug	1
+CDKN2B	N-Acetyl-Alpha-D-Glucosamine	Drug	1
+CDKN2B	Malic Acid	Drug	1
+CDKN2B	Ethylenediamine	Drug	1
+CDKN2B	Denatonium	Drug	1
+CDKN2B	Phytohemagglutinin	Drug	1
+CDKN2B	p-Benzoquinone	Drug	1
+CDKN2B	5-Azacitidine/Gemcitabine Regimen	Drug	1
+CDKN2B	Lenomorelin	Drug	1
