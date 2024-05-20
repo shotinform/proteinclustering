@@ -1,9 +1,9 @@
 library(VennDiagram)
 
-data <- readLines("files/sets_data.txt")
+data <- readLines("../files/sets_data.txt")
 
 list_of_sets <- lapply(data, function(line) {
-  strsplit(line, ",")[[1]]
+  strsplit(line, "##")[[1]]
 })
 
 
