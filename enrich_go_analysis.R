@@ -14,16 +14,16 @@ ego_bp <- enrichGO(gene=geneList,
                 keyType="SYMBOL",
                 ont="BP",  # Biological Process
                 pAdjustMethod="BH",  # Benjamini-Hochberg correction
-                pvalueCutoff=0.1,
-                qvalueCutoff=0.1)
+                pvalueCutoff=0.1)
+#                qvalueCutoff=0.1)
 
 ego_mf <- enrichGO(gene          = geneList,
                    OrgDb         = org.Hs.eg.db,
                    keyType       = "SYMBOL",
                    ont           = "MF",
                    pAdjustMethod = "BH",
-                   pvalueCutoff  = 0.1,
-                   qvalueCutoff = 0.1)
+                   pvalueCutoff  = 0.1)
+#                   qvalueCutoff = 0.1)
 
 ego_bp <- as.data.frame(ego_bp)
 ego_mf <- as.data.frame(ego_mf)
