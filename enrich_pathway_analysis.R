@@ -18,10 +18,11 @@ generate_pathway_analysis <- function(module_name, gene_list, output_directory) 
                                organism = "human",
                                readable = TRUE) 
   
+  epa_results <- as.data.frame(epa_results@result)
   # Select top 10 results by p-value
   top_results <- epa_results %>%
     arrange(pvalue) %>%
-    top_n(-10, pvalue)
+    slice_min(order_by = pvalue, n = 10, with_ties = FALSE)
   
   csv_directory <- file.path(output_directory, "csv_files")
   image_directory <- file.path(output_directory, "images")
@@ -38,7 +39,7 @@ generate_pathway_analysis <- function(module_name, gene_list, output_directory) 
   plot <- ggraph(graph, layout = 'bipartite') +
     geom_edge_link(aes(width = weight), color = 'grey') +  
     geom_node_point(aes(color = type), size = 10) +
-    geom_node_text(aes(label = name, hjust = ifelse(type, 0, 1.3)), color="black", vjust = 3, size = 6) +
+    geom_node_text(aes(label = name, hjust = ifelse(type, 0, 1.3)), color="black", vjust = 3.3, size = 6) +
     scale_color_manual(values = c('dark green', '#BF6900')) +  
     theme_void() +  
     theme(legend.position = "none") + 
