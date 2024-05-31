@@ -2,7 +2,7 @@
 
 Student:
 Marko Nikitovic, 123/2020
-Boško Andrić, /2020
+Boško Andrić, 26/2020
 
 Asistent: Marija Erić
 
