@@ -6,7 +6,7 @@ library(grid)
 library(gridExtra)
 
 generate_heatmaps <- function(geneList, module_name, output_directory) {
-  entrez_ids <- bitr(geneList, fromType="SYMBOL", toType="ENTREZID", OrgDb=org.Hs.eg.db)
+  #entrez_ids <- bitr(geneList, fromType="SYMBOL", toType="ENTREZID", OrgDb=org.Hs.eg.db)
   
   # Gene Ontology Enrichment Analysis for Biological Process (BP)
   ego_bp <- enrichGO(gene=geneList,
@@ -36,11 +36,18 @@ generate_heatmaps <- function(geneList, module_name, output_directory) {
   ego_mf <- ego_mf[order(ego_mf$pvalue), ]
   ego_mf <- ego_mf[1:10, ]
   
+  csv_directory <- file.path(output_directory, "csv_files")
+  image_directory <- file.path(output_directory, "images")
+  
+  write.csv(ego_bp, file.path(csv_directory, paste0(module_name, "_biological_processes.csv")), row.names = FALSE)
+  write.csv(ego_mf, file.path(csv_directory, paste0(module_name, "_molecular_functions.csv")), row.names = FALSE)
+  
+  
   matrix_bp <- matrix(ego_bp$pvalue, nrow = nrow(ego_bp), ncol = 1, dimnames = list(ego_bp$ID, NULL))
   matrix_mf <- matrix(ego_mf$pvalue, nrow = nrow(ego_mf), ncol = 1, dimnames = list(ego_mf$ID, NULL))
   
   # Save BP heatmap
-  png(file.path(output_directory, paste0(module_name, "_biological_processes_heatmap.png")), width = 1920, height = 1080)
+  png(file.path(image_directory, paste0(module_name, "_biological_processes_heatmap.png")), width = 1920, height = 1080)
   heatmap <- pheatmap(matrix_bp, 
                       color = colorRampPalette(c("red", "white"))(10),
                       main = module_name,
@@ -79,7 +86,7 @@ generate_heatmaps <- function(geneList, module_name, output_directory) {
   dev.off()  
   
   # Save MF heatmap
-  png(file.path(output_directory, paste0(module_name, "_molecular_function_heatmap.png")), width = 1920, height = 1080)
+  png(file.path(image_directory, paste0(module_name, "_molecular_function_heatmap.png")), width = 1920, height = 1080)
   heatmap <- pheatmap(matrix_mf, 
                       color = colorRampPalette(c("brown", "white"))(10),
                       main = module_name,
@@ -116,12 +123,12 @@ generate_heatmaps <- function(geneList, module_name, output_directory) {
   dev.off()  
 }
 
-input_lines <- readLines("files/enrich_analysis/modules.txt")
+input_lines <- readLines("files/enrich_analysis/our_modules.txt")
 i <- 1
 while (i <= length(input_lines)) {
   module_name <- trimws(input_lines[i])
   i <- i + 1
   gene_list <- unlist(strsplit(trimws(input_lines[i]), " "))
   i <- i + 1
-  generate_heatmaps(gene_list, module_name, "files/enrich_analysis/enrich_go/")
+  generate_heatmaps(gene_list, module_name, "files/enrich_analysis/enrich_go_our")
 }

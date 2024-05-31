@@ -53,12 +53,12 @@ generate_pathway_analysis <- function(module_name, gene_list, output_directory) 
   dev.off()  
 }
 
-input_lines <- readLines("files/enrich_analysis/modules.txt")
+input_lines <- readLines("files/enrich_analysis/our_modules.txt")
 i <- 1
 while (i <= length(input_lines)) {
   module_name <- trimws(input_lines[i])
   i <- i + 1
   gene_list <- unlist(strsplit(trimws(input_lines[i]), " "))
   i <- i + 1
-  generate_pathway_analysis(module_name, gene_list, "files/enrich_analysis/enrich_pathway/")
+  generate_pathway_analysis(module_name, gene_list, "files/enrich_analysis/enrich_pathway_our")
 }
