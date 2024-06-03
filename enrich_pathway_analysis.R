@@ -7,11 +7,12 @@ library(igraph)
 library(ggraph)
 library(dplyr)
 
+# funkcija koja prima skup gena i za njih vrši "enrichPathway analizu" (obogaćivanje putanja) 
 generate_pathway_analysis <- function(module_name, gene_list, output_directory) {
-  # Convert gene symbols to Entrez IDs
+  # funkcija enrichPathway radi sa entrezId pa je potrebno izvršiti preslikavanja
   entrez_ids <- bitr(gene_list, fromType="SYMBOL", toType="ENTREZID", OrgDb=org.Hs.eg.db)
   
-  # Perform pathway enrichment analysis
+  # Funkcija koja vrši analizu
   epa_results <- enrichPathway(gene = entrez_ids$ENTREZID,
                                pvalueCutoff = 0.1, 
                                pAdjustMethod = "BH",
@@ -19,7 +20,7 @@ generate_pathway_analysis <- function(module_name, gene_list, output_directory) 
                                readable = TRUE) 
   
   epa_results <- as.data.frame(epa_results@result)
-  # Select top 10 results by p-value
+  # Izvlačimo 10 najznačajnijih redova
   top_results <- epa_results %>%
     arrange(pvalue) %>%
     slice_min(order_by = pvalue, n = 10, with_ties = FALSE)
@@ -27,12 +28,16 @@ generate_pathway_analysis <- function(module_name, gene_list, output_directory) 
   csv_directory <- file.path(output_directory, "csv_files")
   image_directory <- file.path(output_directory, "images")
   
+  # čuvamo u odgovarajućem .csv fajlu
   output_csv <- file.path(csv_directory, paste0(module_name, "_top_pathway_results.csv"))
   write.csv(top_results, output_csv, row.names = FALSE)
+  
+  #kreiramo grane za grafik koje spajaju listu gena sa funkcijom
   edges <- data.frame(from = top_results$geneID, 
                       to = top_results$Description, 
                       weight = -log10(top_results$pvalue))
   
+  #postavljanje grafa
   graph <- graph_from_data_frame(edges, directed = FALSE)
   V(graph)$type <- bipartite_mapping(graph)$type
   
@@ -50,9 +55,10 @@ generate_pathway_analysis <- function(module_name, gene_list, output_directory) 
   output_png <- file.path(image_directory, paste0(module_name, "_pathway_plot.png"))
   png(filename = output_png, width = 1920, height = 1080)  
   print(plot)
-  dev.off()  
+  dev.off()  # čuvanje slike
 }
 
+# za svaki modul prvo učitavamo naziv modula a zatim skup gena koji ga čine
 input_lines <- readLines("files/enrich_analysis/our_modules.txt")
 i <- 1
 while (i <= length(input_lines)) {

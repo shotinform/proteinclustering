@@ -1,5 +1,6 @@
 import pandas as pd
 
+# skripta koja pronalazi zajedničke gene za sve tri bolesti
 file_path = '../files/disease_genes/'
 file_names = ['genes_PTA.xlsx', 'genes_T2D.xlsx', 'genes_CVD.xlsx']
 

@@ -1,3 +1,4 @@
+# kod koji pravi Venov dijagram sa četiri skupa
 library(VennDiagram)
 
 data <- readLines("../files/sets_data.txt")
