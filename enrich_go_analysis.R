@@ -5,11 +5,11 @@ library(pheatmap)
 library(grid)
 library(gridExtra)
 
-# funkcija koja prima listu gena i vrši "enrichGo analizu" (analizu obogaćivanja) za molekularne funkcije i biološke procese
+# Funkcija koja prima listu gena i vrši "enrichGo analizu" (analizu obogaćivanja) za molekularne funkcije i biološke procese
 generate_heatmaps <- function(geneList, module_name, output_directory) {
   #entrez_ids <- bitr(geneList, fromType="SYMBOL", toType="ENTREZID", OrgDb=org.Hs.eg.db)
   
-  # analiza za biološke procese (BP)
+  # Analiza za biološke procese (BP)
   ego_bp <- enrichGO(gene=geneList,
                      OrgDb=org.Hs.eg.db,
                      keyType="SYMBOL",
@@ -17,7 +17,7 @@ generate_heatmaps <- function(geneList, module_name, output_directory) {
                      pAdjustMethod="BH",  # "Benjamini-Hochberg" metod
                      pvalueCutoff=0.1)
   
-  # analiza za molekularne funkcije (MF)
+  # Analiza za molekularne funkcije (MF)
   ego_mf <- enrichGO(gene=geneList,
                      OrgDb=org.Hs.eg.db,
                      keyType="SYMBOL",
@@ -31,7 +31,7 @@ generate_heatmaps <- function(geneList, module_name, output_directory) {
   ego_bp$genes <- sapply(ego_bp$geneID, function(x) paste(unique(unlist(strsplit(x, "/"))), collapse = ", "))
   ego_mf$genes <- sapply(ego_mf$geneID, function(x) paste(unique(unlist(strsplit(x, "/"))), collapse = ", "))
   
-  # uzimamo 10 najznačajnijih
+  # Uzimamo 10 najznačajnijih
   ego_bp <- ego_bp[order(ego_bp$pvalue), ]
   ego_bp <- ego_bp[1:10, ]
   
@@ -42,7 +42,7 @@ generate_heatmaps <- function(geneList, module_name, output_directory) {
   image_directory <- file.path(output_directory, "images")
                          
                          
-  # zapisujemo rezultate u .csv format
+  # Zapisujemo rezultate u .csv format
   write.csv(ego_bp, file.path(csv_directory, paste0(module_name, "_biological_processes.csv")), row.names = FALSE)
   write.csv(ego_mf, file.path(csv_directory, paste0(module_name, "_molecular_functions.csv")), row.names = FALSE)
   
@@ -50,7 +50,7 @@ generate_heatmaps <- function(geneList, module_name, output_directory) {
   matrix_bp <- matrix(ego_bp$pvalue, nrow = nrow(ego_bp), ncol = 1, dimnames = list(ego_bp$ID, NULL))
   matrix_mf <- matrix(ego_mf$pvalue, nrow = nrow(ego_mf), ncol = 1, dimnames = list(ego_mf$ID, NULL))
   
-  # pravimo toplotne mape za Biološke procese
+  # Pravimo toplotne mape za Biološke procese
   png(file.path(image_directory, paste0(module_name, "_biological_processes_heatmap.png")), width = 1920, height = 1080)
   heatmap <- pheatmap(matrix_bp, 
                       color = colorRampPalette(c("red", "white"))(10),
@@ -72,7 +72,7 @@ generate_heatmaps <- function(geneList, module_name, output_directory) {
   
   y_coords <- seq(from = 0.9, to = 0.05, length.out = nrow(matrix_bp))
   
-  # postavljanje anotacija koje smo prethodno izvukli
+  # Postavljanje anotacija koje smo prethodno izvukli
   for (i in 1:length(annotation_texts_left)) {
     grid.text(annotation_texts_left[i], 
               x = unit(0.35, "npc"), 
@@ -90,7 +90,7 @@ generate_heatmaps <- function(geneList, module_name, output_directory) {
   }
   dev.off() # čuvanje grafika 
   
-  # na dole postupak za molekularne funkcije koji je identičan kao za biološke funkcije
+  # U nastavku postupak za molekularne funkcije koji je identičan kao za biološke funkcije
   png(file.path(image_directory, paste0(module_name, "_molecular_function_heatmap.png")), width = 1920, height = 1080)
   heatmap <- pheatmap(matrix_mf, 
                       color = colorRampPalette(c("brown", "white"))(10),
@@ -128,7 +128,7 @@ generate_heatmaps <- function(geneList, module_name, output_directory) {
   dev.off()  
 }
 
-# za svaki od modula prvo učitavamo njegov naziv a zatim skup gena koji ga čine, i pozivamo gore funkciju
+# Za svaki od modula prvo učitavamo njegov naziv a zatim skup gena koji ga čine, i pozivamo gore funkciju
 input_lines <- readLines("files/enrich_analysis/our_modules.txt")
 i <- 1
 while (i <= length(input_lines)) {
