@@ -4,8 +4,9 @@ from core import config as cfg
 import time
 
 # Ova skripta vrši preuzimanje podataka iz BioGRID baze podataka, na osnovu kojih pravimo "PPI" mrežu
+
 request_url = cfg.BASE_URL + "/interactions"
-# spisak gena za koje dohvatamo podatke
+# Spisak gena za koje dohvatamo podatke
 geneList = [
     "AIP", "LEP", "CHGA", "CDKN2A", "CAV1", "CTNNB1", "ABCB1", "CASR", "ALB", "G6PD",
     "FLNA", "ESR1", "KL", "ACTB", "MEN1", "TP53", "KDR", "TICAM2", "EGFR", "CDKN2B",
@@ -13,9 +14,10 @@ geneList = [
     "PTH", "PRKAR1A", "SLC12A3", "POTEF"
 ]
 
-# eksperimente ovog tipa izbacujemo
+# Eksperimente ovog tipa izbacujemo
 evidenceList = ["Co-localization", "Genetic interference", "Synthetic Rescue", "Synthetic Growth Defect", "Synthetic Lethality"]
 
+# Detaljno značenje svakog od parametra može se pronaći na sledećem linku https://wiki.thebiogrid.org/doku.php/biogridrest
 params = {
     "accesskey": cfg.ACCESS_KEY,
     "format": "tab3",   
@@ -37,9 +39,11 @@ all_interactions = ""
 interaction_count = 0
 batch_size = 100000
 file_count = 0
-retry_limit = 3  # koliko puta da se pokuša ukoliko dodje do greške
-retry_delay = 10  # koliko sekundi da se čeka ukoliko dodje do greške da se ponovo pokuša sa preuzimanjem
+retry_limit = 3  # Koliko puta da se pokuša ukoliko dodje do greške
+retry_delay = 10  # Koliko sekundi da se čeka ukoliko dodje do greške da se ponovo pokuša sa preuzimanjem
 
+# U petlji preuzimamo jedan po jedan batch, dok ne preuzmemo sve podatke. Takodje u slučaju greške dolazi do pokušavamo da opet
+# preuzmemo. 
 while True:
     print(f"Fetching data starting at {start}")
     params["start"] = start
